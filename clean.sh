@@ -5,4 +5,6 @@ rm \
 *.fls \
 *.gz \
 *.out \
-*.docx
+*.docx \
+*.odt \
+*.html
