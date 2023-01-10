@@ -1,0 +1,55 @@
+ETHAN M THOMAS
++1(863) 325-5360 | ethan@smaze.net
+www.ethanmt.com | linkedin.com/in/ethanmt | github.com/ethmth
+
+OBJECTIVE
+------------------------------------------------------------------------
+Student who is passionate about Linux, automation using Bash and Python, and front-end development.
+Curious and eager to learn more about Cybersecurity and Algorithm Development.
+Seeking a Summer 2023 Software Engineering internship.
+
+EDUCATION
+------------------------------------------------------------------------
+Bachelor of Computer Science (B.S.), Columbia University (SEAS)	(Class of 2025)
+Relevant Coursework: Data Structures, Advanced Programming, Linear Algebra, Discrete Math
+Member of Columbia Space Initiative (CSI) - 2023 NASA Micro-g NExT Competition team member
+Member of the Application Development Initiative (ADI) - DevFest (Hackathon) organizing committee
+
+SKILLS
+-------------------------- --------------------------------------------------------------------------------
+  Programming Languages    Java, C++, C, Python, Javascript, Typescript, R, Matlab
+  Libraries & Frameworks   Selenium, Flask API, Beautiful Soup, React, NextJS, RPlumber
+  Technical Skills         Linux, Docker, Bash, LaTeX, HTML, CSS, Git, CAD (Solidworks), Virtual Machines
+  Soft Skills              Patience, Curiosity, Organization, Communication
+-------------------------- --------------------------------------------------------------------------------
+
+EXPERIENCE
+------------------------------------------------------------------------
+Front-End Software Engineer (Club) Sep 2021 - May 2022
+Georgetown University Baseball Analytics (Washington, DC)
+-   Developed web UI that allowed coaches and players to visualize catcher framing data using ReactJS and R.  
+-   Worked with R Data Analysts to convert their projects into APIs using the R Plumber Library.
+
+Web Developer/Web Designer (Volunteer) July 2019 - May 2021
+Winter Haven Optimist Club (Winter Haven, FL)
+-   Developed and designed a new website for an annual Christmas 5k/10k fundraiser using HTML/CSS.
+-   Achieved 49% growth in registered runners the year my site went live.
+
+PROJECTS
+------------------------------------------------------------------------
+Personal projects available on GitHub.
+- Seatgeek Scanner. Built a tool to continuously search for tickets that fall below a target price within a date range for any given show on Seatgeek. Integrates with IFTTT webhooks. Uses Python, Selenium, and Docker.
+- Auto-YouTuber. Built a tool that creates and uploads daily YouTube videos by scraping top posts from Reddit, compiling them into a full-length video, and uploading to YouTube completely autonomously. Uses Bash, Python, FFmpeg, and Docker.
+- ThingM Blink1 API. Built an API using Python, Flask, and Docker for the ThingM Blink1, allowing for network control.
+- C Web Server (Class Project). Built a dynamic HTTP/1.0 Server in C that serves static files and entries from a database.
+
+EXTRA-CURRICULAR ACTIVITIES
+------------------------------------------------------------------------
+-   Volunteer tutoring in math up to Calculus II through Mu Alpha Theta, Schoolhouse.World, and Hatch Tutors.
+-   Create personal projects in the Columbia Engineering Makerspace by 3D printing models and laser cutting parts designed using Solidworks.
+-   Interests: Minecraft Mod Development, Musical Theater, Baseball, Reviewing Films, and Tinkering with Linux.
+
+LEADERSHIP
+------------------------------------------------------------------------
+-   President of Technology Student Association (TSA) Chapter in high school, a club of over 50 students.
+-   Leader of Art of Engineering Common Project group, which created a "Smart" Hungry-Hungry Hippos game. The game uses an Arduino Microcontroller, beam-break sensors, and push-pull servos.
