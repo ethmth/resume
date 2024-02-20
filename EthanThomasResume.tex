@@ -8,6 +8,7 @@
 \usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Document margins
 \usepackage[parfill]{parskip} % Remove paragraph indentation
 \usepackage{array} % Required for boldface (\bf and \bfseries) tabular columns
+\usepackage{enumitem}
 
 \usepackage{hyperref}
 \hypersetup{
@@ -57,7 +58,9 @@
           %   \\ Experienced with Sports Analysis using R, and eager to learn more about Data Analysis.
           Extensive experience developing web front-ends with React, mobile applications with Flutter, and back-ends using Python.
           Loves Linux, Python/shell scripting, and automation.
-          Seeking a Summer 2024 Software Engineering, Cybersecurity, or Quantitative/Research internship.}
+          Seeking a Summer 2024 Internship in Software Engineering.
+        %   Seeking a Summer 2024 Software Engineering, Cybersecurity, or Quantitative/Research internship.
+          }
 \end{list}
 
 
@@ -78,7 +81,7 @@
 
           %   \\ %   Fix these extracurriculars somehow
             {\bf Tau Beta Pi} (The Engineering National Honor Society) - Member of the New York Alpha Chapter \\
-            {\bf Application Development Initiative (ADI)} - Organizer of DevFest (annual hackathon), Leader of ADI House
+            {\bf Application Development Initiative} (ADI) - Organizer of DevFest (annual hackathon), Leader of ADI House
             % Member of Columbia Space Initiative (CSI) - NASA Micro-g NExT Competition team member
 \end{list}
 
@@ -94,21 +97,18 @@
 
     \item
           \textbf{NSF REU Engineering Research Intern} \hfill June 2023 - Aug 2023\\
-          Florida Atlantic University Institute for Sensing and Embedded Network Systems (I-SENSE)\hfill \textit{Boca Raton, FL}
-          \begin{itemize}
-              \itemsep -3pt {}
-              \item Awarded ``Most Outstanding Presentation'' for ``E-Scooter Mobility Sensing for Smart City Public Safety and Asset \\
-                    Management'' Research Project.
+          \textbf{Florida Atlantic University} Institute for Sensing \& Embedded Network Systems (I-SENSE)\hfill \textit{Boca Raton, FL}
+          \begin{itemize}[noitemsep, topsep=0pt]
+              \item Awarded ``Most Outstanding Presentation'' for E-Scooter Mobility Sensing Research Project.
               \item Developed a Raspberry-Pi based data collection system for electric scooters with IMU, GPS, and Speed sensing.
-              \item Utilized machine learning to classify and predict road riding surface types based on independently collected data.
+              \item Utilized machine learning to classify and predict road riding surface types based on collected data.
           \end{itemize}
 
     \item
           \textbf{Software Engineering Intern} \hfill Feb 2023 - June 2023\\
           Puberry\hfill \textit{New York, NY}
-          \begin{itemize}
-              \itemsep -3pt {}
-              \item Developed a front-end application using the cross-platform Flutter framework. \
+          \begin{itemize}[noitemsep, topsep=-5pt]
+              \item Developed a front-end application using the cross-platform Flutter framework.
               \item Worked with Google Firebase storage and auth for data retrieval and storage.
           \end{itemize}
 \end{list}
@@ -125,9 +125,9 @@
 \begin{list}{}{\setlength{\leftmargin}{0em}}
     \item
           \begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
-              Programming Languages   & Python, C++, SQL, Javascript, Typescript, Java, C.                            \\
+              Programming Languages   & Python, C, C++, SQL, Javascript, Typescript, Java, OCaml, R.                            \\
               Technical Skills        & Git, Linux, Docker, Bash, LaTeX, HTML, CSS, Raspberry Pi, Virtual Machines.   \\
-              Libraries \& Frameworks & React, NextJS, Flutter, PyTorch, Tensorflow, Selenium, Flask, Beautiful Soup.
+              Libraries \& Frameworks & React, NextJS, Flutter, PyTorch, Tensorflow, Selenium, Flask, Unity3D.
           \end{tabular}
 \end{list}
 
@@ -137,24 +137,22 @@
 %----------------------------------------------------------------------------------------
 
 \medskip
-\MakeUppercase{{\bf Projects}}
+\MakeUppercase{{\bf Projects}} - source code available on GitHub.
 \medskip
 \hrule
 \begin{list}{}{\setlength{\leftmargin}{0em}}
     \item
           \vspace{-1.25em}
-    \item {Project source code, including this resume (LaTeX) and website \href{https://www.ethanmt.com/}{ethanmt.com} (NextJS/React/Typescript), available on GitHub.}
+    % \item {Project source code available on GitHub.}
 
-    \item \textbf{ADI DevFest Hackathon Website.} {Secondary contributor for ADI's 2023
-              %and 2024 (\href{https://2024.devfestcu.com/}{2024.devfestcu.com}) DevFest Hackathons. 
-              DevFest Hackathon (\href{https://2023.devfestcu.com/}{2023.devfestcu.com}).
-              \\ Currently leading DevFest 2024 website development.
-              (\href{https://github.com/adicu/devfest-2024}{github.com/adicu/devfest-2024})}. Using React and Javascript.
+    \item \textbf{ADI DevFest Hackathon Website.} {Led DevFest 2024 website development
+    (\href{https://2024.devfestcu.com/}{2024.devfestcu.com})} using React, NextJS, and Javascript.
+    Contributed to the 2023 DevFest website (\href{https://2023.devfestcu.com/}{2023.devfestcu.com}).
+              
+    \item \textbf{OpenAir-VPN.} {Created a custom Linux VPN front-end for AirVPN provided configuration files, supporting OpenVPN, Wireguard, and a killswitch. Relies on Linux, Bash, and iptables firewall rules. }
 
           % \item \textbf{Seatgeek Scanner.} {Built a tool to continuously search for tickets that fall below a target price within a date range for any given show on Seatgeek. Integrates with IFTTT webhooks. Uses Python, Selenium, and Docker. }
     \item \textbf{Auto-YouTuber.} {Created a tool that creates and uploads daily YouTube videos by scraping top posts from Reddit, compiling them into a full-length video, and uploading to YouTube completely autonomously. Uses Bash, Python, FFmpeg, and Docker. }
-
-    \item \textbf{OpenAir-VPN.} {Created a custom Linux VPN front-end for AirVPN provided configuration files, supporting OpenVPN, Wireguard, and a killswitch. Relies on Linux, Bash, and iptables firewall rules. }
 
 \end{list}
 
@@ -180,16 +178,21 @@
     %       \begin{itemize}
     %           \item Built an autonomous water vehicle as part of the NASA Micro-g NExT Competition (2022-2023).
     %       \end{itemize}
+
+    \item
+    \textbf{Competitive Programming} \hfill Sep 2023 - Present
+    \begin{itemize}[topsep=-5pt, noitemsep]
+        \item Competed in the International Collegiate Programming Contest (ICPC) North American Qualifiers.
+    \end{itemize}
     \item
           \textbf{Georgetown University Baseball Analytics} - Front-End Software Engineer \hfill Sep 2021 - May 2022
-          \begin{itemize}
+          \begin{itemize}[topsep=-5pt, noitemsep]
               \item Developed web UI for data visualization using React and the R Plumber Library.
                     %   \item Worked with R Data Analysts to convert their projects into APIs using the R Plumber Library.
           \end{itemize}
-
     \item
           \textbf{Winter Haven Optimist Club} - Volunteer/Web Developer \hfill July 2019 - May 2021
-          \begin{itemize}
+          \begin{itemize}[topsep=-5pt, noitemsep]
               \item Developed and designed a new website for an annual Christmas 5k/10k fundraiser.
               \item Achieved 49\% growth in registered runners the year my site went live.
           \end{itemize}
