@@ -1,0 +1,355 @@
+{
+  "basics": {
+    "url": {
+      "href": "https://www.ethanmt.com",
+      "label": "www.ethanmt.com"
+    },
+    "name": "Ethan Montgomery Thomas",
+    "email": "ethan@smaze.net",
+    "phone": "+1 (863) 325 5360",
+    "picture": {
+      "url": "",
+      "size": 64,
+      "effects": {
+        "border": false,
+        "hidden": false,
+        "grayscale": false
+      },
+      "aspectRatio": 1,
+      "borderRadius": 0
+    },
+    "headline": "",
+    "location": "Winter Haven, FL",
+    "customFields": []
+  },
+  "metadata": {
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "format": "letter",
+      "margin": 30,
+      "options": {
+        "breakLine": true,
+        "pageNumbers": false
+      }
+    },
+    "notes": "",
+    "theme": {
+      "text": "#000000",
+      "primary": "#dc2626",
+      "background": "#ffffff"
+    },
+    "layout": [
+      [
+        [
+          "summary",
+          "profiles",
+          "education",
+          "experience",
+          "skills",
+          "projects",
+          "custom.z0kq9vl3jkn116w5idm35uk9"
+        ],
+        [
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "volunteer",
+          "references",
+          "languages"
+        ]
+      ]
+    ],
+    "template": "bronzor",
+    "typography": {
+      "font": {
+        "size": 12,
+        "family": "Roboto",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ]
+      },
+      "hideIcons": false,
+      "lineHeight": 1.5,
+      "underlineLinks": true
+    }
+  },
+  "sections": {
+    "awards": {
+      "id": "awards",
+      "name": "Awards",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "custom": {
+      "z0kq9vl3jkn116w5idm35uk9": {
+        "id": "z0kq9vl3jkn116w5idm35uk9",
+        "name": "Custom Section",
+        "items": [
+          {
+            "id": "vxqo11hsjhbn6gkhpq003r7h",
+            "url": {
+              "href": "",
+              "label": ""
+            },
+            "date": "",
+            "name": "MySkills",
+            "summary": "",
+            "visible": true,
+            "keywords": [],
+            "location": "",
+            "description": ""
+          }
+        ],
+        "columns": 1,
+        "visible": false,
+        "separateLinks": true
+      }
+    },
+    "skills": {
+      "id": "skills",
+      "name": "Skills",
+      "items": [
+        {
+          "id": "b5a3dvqtnygjfuwrun8xjpdz",
+          "name": "Programming Languages",
+          "level": 0,
+          "visible": true,
+          "keywords": [],
+          "description": "Python, C, C++, SQL, Javascript, Typescript, Java, OCaml"
+        },
+        {
+          "id": "kuxwra1gr6r8dxfh4pgme5ix",
+          "name": "Technical Skills",
+          "level": 0,
+          "visible": true,
+          "keywords": [],
+          "description": "Git, Linux, Docker, Bash, LaTeX, HTML, CSS, Raspberry Pi, Virtual Machines"
+        },
+        {
+          "id": "i55jyp2tlbdlhegfyevqc43y",
+          "name": "Libraries & Frameworks",
+          "level": 0,
+          "visible": true,
+          "keywords": [],
+          "description": "React, NextJS, Flutter, PyTorch, Tensorflow, Selenium, Flask, Godot"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "summary": {
+      "id": "summary",
+      "name": "Summary",
+      "columns": 1,
+      "content": "<p>Columbia University Computer Science student with research experience, graduating in October of 2024. Extensive experience with Linux, Python development, shell scripting, and React web development.</p>",
+      "visible": true,
+      "separateLinks": true
+    },
+    "profiles": {
+      "id": "profiles",
+      "name": "Profiles",
+      "items": [
+        {
+          "id": "ic2a59yrqf9ee5ny0doebb7d",
+          "url": {
+            "href": "https://www.linkedin.com/in/ethanmt/",
+            "label": ""
+          },
+          "icon": "linkedin",
+          "network": "LinkedIn",
+          "visible": true,
+          "username": "ethanmt"
+        },
+        {
+          "id": "dwfs0xg7jixz4m1kp902p2pk",
+          "url": {
+            "href": "https://github.com/ethmth",
+            "label": ""
+          },
+          "icon": "github",
+          "network": "Github",
+          "visible": true,
+          "username": "ethmth"
+        }
+      ],
+      "columns": 5,
+      "visible": true,
+      "separateLinks": true
+    },
+    "projects": {
+      "id": "projects",
+      "name": "Projects",
+      "items": [
+        {
+          "id": "peyhwjh3funefbxrsj4xb5fv",
+          "url": {
+            "href": "https://2024.devfestcu.com/",
+            "label": ""
+          },
+          "date": "Sep 2022 - Feb 2024",
+          "name": "ADI DevFest Hackathon Website",
+          "summary": "<p>Led DevFest 2024 website development (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://2024.devfestcu.com\">2024.devfestcu.com</a>) using React, NextJS, and Javascript. Contributed to the 2023 DevFest website (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://2023.devfestcu.com\">2023.devfestcu.com</a>).</p>",
+          "visible": true,
+          "keywords": [],
+          "description": ""
+        },
+        {
+          "id": "s4sgrs1c6lsv6g5ao0zqwf03",
+          "url": {
+            "href": "https://github.com/ethmth/openair-vpn",
+            "label": ""
+          },
+          "date": "",
+          "name": "OpenAir-VPN",
+          "summary": "<p>Created a custom Linux VPN front-end for AirVPN provided configuration files, supporting OpenVPN, Wireguard, and a killswitch. Relies on Linux, Bash, and iptables firewall rules.</p>",
+          "visible": true,
+          "keywords": [],
+          "description": ""
+        },
+        {
+          "id": "xdw3w4lj05q4gukpuowo4m1u",
+          "url": {
+            "href": "https://github.com/ethmth/auto-youtuber",
+            "label": ""
+          },
+          "date": "",
+          "name": "Auto-YouTuber",
+          "summary": "<p>Created a tool that creates daily YouTube videos by scraping top posts from Reddit, compiling them into a full-length video, and uploading to YouTube autonomously. Uses Bash, Python, FFmpeg, and Docker.</p>",
+          "visible": true,
+          "keywords": [],
+          "description": ""
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "education": {
+      "id": "education",
+      "name": "Education",
+      "items": [
+        {
+          "id": "ud2tp7r81no24h7rhtmdhjak",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "area": "Bachelor of Science (B.S.) Degree in Computer Science",
+          "date": "Graduated October 16, 2024",
+          "score": "",
+          "summary": "",
+          "visible": true,
+          "studyType": "4.157 GPA",
+          "institution": "Columbia University"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "interests": {
+      "id": "interests",
+      "name": "Interests",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "languages": {
+      "id": "languages",
+      "name": "Languages",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "volunteer": {
+      "id": "volunteer",
+      "name": "Volunteering",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "experience": {
+      "id": "experience",
+      "name": "Experience",
+      "items": [
+        {
+          "id": "n03wm0hc39uiu1zp2omjjqvz",
+          "url": {
+            "href": "https://www.fau.edu/isense/reu/reu-2023/reu-2023-artificial-intellience-for-smart-cities/",
+            "label": "fau.edu/isense/reu/reu-2023/reu-2023-artificial-intellience-for-smart-cities"
+          },
+          "date": "June 2023 - Aug 2023",
+          "company": "Florida Atlantic University Institute for Sensing & Embedded Network Systems",
+          "summary": "<ul><li><p>Awarded “Most Outstanding Presentation” for E-Scooter Mobility Sensing Research Project. </p></li><li><p>Developed a Raspberry-Pi data collection system for electric scooters with IMU, GPS, and Speed sensing.</p></li><li><p>Utilized machine learning to classify and predict road riding surface types based on collected data.</p></li></ul>",
+          "visible": true,
+          "location": "Boca Raton, FL",
+          "position": "NSF REU Engineering Research Intern"
+        },
+        {
+          "id": "s352sevpfxgrzpj19uhineqe",
+          "url": {
+            "href": "https://puberry.org/",
+            "label": "puberry.org"
+          },
+          "date": "Feb 2023 - June 2023",
+          "company": "Puberry",
+          "summary": "<ul><li><p>Developed a front-end application using the cross-platform Flutter framework.</p></li><li><p>Worked with Google Firebase storage and auth for data retrieval and storage.</p></li></ul>",
+          "visible": true,
+          "location": "New York, NY",
+          "position": "Software Engineering Intern"
+        },
+        {
+          "id": "qhxk2yck8lwvdwpxf98zwbqf",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "Present",
+          "company": "Test",
+          "summary": "<ul><li><p>Bullet item 1</p></li><li><p>Bullet item 2</p></li></ul>",
+          "visible": false,
+          "location": "",
+          "position": ""
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "references": {
+      "id": "references",
+      "name": "References",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "publications": {
+      "id": "publications",
+      "name": "Publications",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "certifications": {
+      "id": "certifications",
+      "name": "Certifications",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    }
+  }
+}
