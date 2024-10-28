@@ -42,7 +42,7 @@
     },
     "page": {
       "format": "letter",
-      "margin": 30,
+      "margin": 48,
       "options": {
         "breakLine": true,
         "pageNumbers": false
@@ -79,7 +79,7 @@
     "template": "onyx",
     "typography": {
       "font": {
-        "size": 14,
+        "size": 13.5,
         "family": "Roboto",
         "subset": "latin",
         "variants": [
@@ -113,20 +113,6 @@
             "date": "",
             "location": "",
             "summary": "<p><strong>Programming Languages:</strong> Python, C, C++, SQL, Javascript, Typescript, Java, OCaml.<br><strong>Technical Skills:</strong> Git, Linux, Docker, Bash, LaTeX, HTML, CSS, Raspberry Pi, Virtual Machines.<br><strong>Libraries &amp; Frameworks:</strong> React, NextJS, Flutter, PyTorch, Tensorflow, Selenium, Flask, Godot.</p>",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": ""
-            }
-          },
-          {
-            "id": "ij6ih1c7am7dxd510kj041px",
-            "visible": false,
-            "name": "Technical Skills",
-            "description": "",
-            "date": "",
-            "location": "Python, C, C++, SQL, Javascript, Typescript, Java, OCaml",
-            "summary": "",
             "keywords": [],
             "url": {
               "label": "",
@@ -176,7 +162,7 @@
       "id": "summary",
       "name": "Summary",
       "columns": 1,
-      "content": "<p>Columbia University Computer Science student with research experience, graduating in October of 2024. Extensive experience with Linux, Python development, shell scripting, and React web development.</p>",
+      "content": "<p>Columbia University Computer Science new graduate with research experience. Extensive experience with Linux, Python development, shell scripting, and React web development.</p>",
       "visible": true,
       "separateLinks": true
     },
@@ -265,17 +251,17 @@
       "items": [
         {
           "id": "ud2tp7r81no24h7rhtmdhjak",
-          "url": {
-            "href": "",
-            "label": ""
-          },
-          "area": "Bachelor of Science (B.S.) Degree in Computer Science",
-          "date": "Graduated October 16, 2024",
-          "score": "",
-          "summary": "",
           "visible": true,
+          "institution": "Columbia University",
           "studyType": "4.157 GPA",
-          "institution": "Columbia University"
+          "area": "Bachelor of Computer Science (B.S.)",
+          "score": "",
+          "date": "Graduated October 16, 2024",
+          "summary": "<p>Coursework: Artificial Intelligence, Data Structures, Algorithms, Databases, Networks, Operating Systems, Security</p><p><strong>Application Development Initiative</strong> (ADI) - Organizer of DevFest (annual hackathon), Leader of ADI House<br><strong>Tau Beta Pi</strong> (The Engineering National Honor Society) - Member of the New York Alpha Chapter<br><strong>Columbia Space Initiative</strong> (CSI) - Member of 2022-2023 NASA Micro-g NExT Competition team</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
         }
       ],
       "columns": 1,
