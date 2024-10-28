@@ -79,7 +79,7 @@
     "template": "onyx",
     "typography": {
       "font": {
-        "size": 13.5,
+        "size": 13,
         "family": "Roboto",
         "subset": "latin",
         "variants": [
@@ -112,7 +112,7 @@
             "description": "",
             "date": "",
             "location": "",
-            "summary": "<p><strong>Programming Languages:</strong> Python, C, C++, SQL, Javascript, Typescript, Java, OCaml.<br><strong>Technical Skills:</strong> Git, Linux, Docker, Bash, LaTeX, HTML, CSS, Raspberry Pi, Virtual Machines.<br><strong>Libraries &amp; Frameworks:</strong> React, NextJS, Flutter, PyTorch, Tensorflow, Selenium, Flask, Godot.</p>",
+            "summary": "<p><strong>Programming Languages</strong> - Python, C, C++, SQL, Javascript, Typescript, Java, OCaml.<br><strong>Technical Skills </strong>- Git, Linux, Docker, Bash, LaTeX, HTML, CSS, Raspberry Pi, Virtual Machines.<br><strong>Libraries &amp; Frameworks</strong> - React, NextJS, Flutter, PyTorch, Tensorflow, Selenium, Flask, Godot.</p>",
             "keywords": [],
             "url": {
               "label": "",
@@ -257,7 +257,7 @@
           "area": "Bachelor of Computer Science (B.S.)",
           "score": "",
           "date": "Graduated October 16, 2024",
-          "summary": "<p>Coursework: Artificial Intelligence, Data Structures, Algorithms, Databases, Networks, Operating Systems, Security</p><p><strong>Application Development Initiative</strong> (ADI) - Organizer of DevFest (annual hackathon), Leader of ADI House<br><strong>Tau Beta Pi</strong> (The Engineering National Honor Society) - Member of the New York Alpha Chapter<br><strong>Columbia Space Initiative</strong> (CSI) - Member of 2022-2023 NASA Micro-g NExT Competition team</p>",
+          "summary": "<p>•  Coursework - Artificial Intelligence, Data Structures, Algorithms, Databases, Networks, Operating Systems, Security</p><p>•  <strong>Application Development Initiative</strong> (ADI) - Organizer of DevFest (annual hackathon), Leader of ADI House<br>•  <strong>Tau Beta Pi</strong> (The Engineering National Honor Society) - Member of the New York Alpha Chapter<br>•  <strong>Columbia Space Initiative</strong> (CSI) - Member of 2022-2023 NASA Micro-g NExT Competition team</p>",
           "url": {
             "label": "",
             "href": ""
