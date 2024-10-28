@@ -42,7 +42,7 @@
     },
     "page": {
       "format": "letter",
-      "margin": 48,
+      "margin": 32,
       "options": {
         "breakLine": true,
         "pageNumbers": false
@@ -79,7 +79,7 @@
     "template": "onyx",
     "typography": {
       "font": {
-        "size": 13,
+        "size": 14,
         "family": "Roboto",
         "subset": "latin",
         "variants": [
