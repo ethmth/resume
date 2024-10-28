@@ -80,7 +80,7 @@
     "typography": {
       "font": {
         "size": 14,
-        "family": "Roboto",
+        "family": "PT Serif",
         "subset": "latin",
         "variants": [
           "regular"
@@ -271,17 +271,35 @@
     "interests": {
       "id": "interests",
       "name": "Interests",
-      "items": [],
+      "items": [
+        {
+          "id": "m9xcew6kqr3w9uotac2j8pxn",
+          "visible": true,
+          "name": "Test",
+          "keywords": [
+            "test1",
+            "test2"
+          ]
+        }
+      ],
       "columns": 1,
-      "visible": true,
+      "visible": false,
       "separateLinks": true
     },
     "languages": {
       "id": "languages",
       "name": "Languages",
-      "items": [],
+      "items": [
+        {
+          "id": "rcmp0k8mmngu88csuq63io1z",
+          "visible": true,
+          "name": "English",
+          "description": "Spanish, French",
+          "level": 1
+        }
+      ],
       "columns": 1,
-      "visible": true,
+      "visible": false,
       "separateLinks": true
     },
     "volunteer": {
@@ -359,9 +377,22 @@
     "certifications": {
       "id": "certifications",
       "name": "Certifications",
-      "items": [],
+      "items": [
+        {
+          "id": "s9a1h2uhyvs9pvtsd5b3i9pj",
+          "visible": true,
+          "name": " ",
+          "issuer": "",
+          "date": "",
+          "summary": "<p>Programming Clips - Help, Me, Please</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ],
       "columns": 1,
-      "visible": true,
+      "visible": false,
       "separateLinks": true
     }
   }
