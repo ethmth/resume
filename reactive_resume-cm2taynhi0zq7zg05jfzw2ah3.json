@@ -62,8 +62,8 @@
           "education",
           "experience",
           "skills",
-          "projects",
-          "custom.z0kq9vl3jkn116w5idm35uk9"
+          "custom.z0kq9vl3jkn116w5idm35uk9",
+          "projects"
         ],
         [
           "interests",
@@ -79,7 +79,7 @@
     "template": "onyx",
     "typography": {
       "font": {
-        "size": 13,
+        "size": 14,
         "family": "Roboto",
         "subset": "latin",
         "variants": [
@@ -103,25 +103,39 @@
     "custom": {
       "z0kq9vl3jkn116w5idm35uk9": {
         "id": "z0kq9vl3jkn116w5idm35uk9",
-        "name": "Custom Section",
+        "name": "Skills",
         "items": [
           {
             "id": "vxqo11hsjhbn6gkhpq003r7h",
-            "url": {
-              "href": "",
-              "label": ""
-            },
-            "date": "",
-            "name": "MySkills",
-            "summary": "",
             "visible": true,
-            "keywords": [],
+            "name": "",
+            "description": "",
+            "date": "",
             "location": "",
-            "description": ""
+            "summary": "<p><strong>Programming Languages:</strong> Python, C, C++, SQL, Javascript, Typescript, Java, OCaml.<br><strong>Technical Skills:</strong> Git, Linux, Docker, Bash, LaTeX, HTML, CSS, Raspberry Pi, Virtual Machines.<br><strong>Libraries &amp; Frameworks:</strong> React, NextJS, Flutter, PyTorch, Tensorflow, Selenium, Flask, Godot.</p>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          },
+          {
+            "id": "ij6ih1c7am7dxd510kj041px",
+            "visible": false,
+            "name": "Technical Skills",
+            "description": "",
+            "date": "",
+            "location": "Python, C, C++, SQL, Javascript, Typescript, Java, OCaml",
+            "summary": "",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
           }
         ],
         "columns": 1,
-        "visible": false,
+        "visible": true,
         "separateLinks": true
       }
     },
@@ -131,11 +145,11 @@
       "items": [
         {
           "id": "b5a3dvqtnygjfuwrun8xjpdz",
-          "name": "Programming Languages",
-          "level": 0,
           "visible": true,
-          "keywords": [],
-          "description": "Python, C, C++, SQL, Javascript, Typescript, Java, OCaml"
+          "name": "",
+          "description": "Programming Languages: Python, C, C++, SQL, Javascript, Typescript, Java, OCaml",
+          "level": 0,
+          "keywords": []
         },
         {
           "id": "kuxwra1gr6r8dxfh4pgme5ix",
@@ -155,7 +169,7 @@
         }
       ],
       "columns": 1,
-      "visible": true,
+      "visible": false,
       "separateLinks": true
     },
     "summary": {
@@ -203,42 +217,42 @@
       "items": [
         {
           "id": "peyhwjh3funefbxrsj4xb5fv",
-          "url": {
-            "href": "https://2024.devfestcu.com/",
-            "label": ""
-          },
-          "date": "Sep 2022 - Feb 2024",
-          "name": "ADI DevFest Hackathon Website",
-          "summary": "<p>Led DevFest 2024 website development (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://2024.devfestcu.com\">2024.devfestcu.com</a>) using React, NextJS, and Javascript. Contributed to the 2023 DevFest website (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://2023.devfestcu.com\">2023.devfestcu.com</a>).</p>",
           "visible": true,
+          "name": " ",
+          "description": "",
+          "date": "",
+          "summary": "<p>Led DevFest 2024 website development (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://2024.devfestcu.com\">2024.devfestcu.com</a>) using React, NextJS, and Javascript. Contributed to the 2023 DevFest website (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://2023.devfestcu.com\">2023.devfestcu.com</a>).</p>",
           "keywords": [],
-          "description": ""
+          "url": {
+            "label": "ADI DevFest Hackathon Website",
+            "href": "https://2024.devfestcu.com/"
+          }
         },
         {
           "id": "s4sgrs1c6lsv6g5ao0zqwf03",
-          "url": {
-            "href": "https://github.com/ethmth/openair-vpn",
-            "label": ""
-          },
-          "date": "",
-          "name": "OpenAir-VPN",
-          "summary": "<p>Created a custom Linux VPN front-end for AirVPN provided configuration files, supporting OpenVPN, Wireguard, and a killswitch. Relies on Linux, Bash, and iptables firewall rules.</p>",
           "visible": true,
+          "name": " ",
+          "description": "",
+          "date": "",
+          "summary": "<p>Created a custom Linux VPN front-end for AirVPN provided configuration files, supporting OpenVPN, Wireguard, and a killswitch. Relies on Linux, Bash, and iptables firewall rules.</p>",
           "keywords": [],
-          "description": ""
+          "url": {
+            "label": "OpenAir-VPN",
+            "href": "https://github.com/ethmth/openair-vpn"
+          }
         },
         {
           "id": "xdw3w4lj05q4gukpuowo4m1u",
-          "url": {
-            "href": "https://github.com/ethmth/auto-youtuber",
-            "label": ""
-          },
-          "date": "",
-          "name": "Auto-YouTuber",
-          "summary": "<p>Created a tool that creates daily YouTube videos by scraping top posts from Reddit, compiling them into a full-length video, and uploading to YouTube autonomously. Uses Bash, Python, FFmpeg, and Docker.</p>",
           "visible": true,
+          "name": " ",
+          "description": "",
+          "date": "",
+          "summary": "<p>Created a tool that creates daily YouTube videos by scraping top posts from Reddit, compiling them into a full-length video, and uploading to YouTube autonomously. Uses Bash, Python, FFmpeg, and Docker.</p>",
           "keywords": [],
-          "description": ""
+          "url": {
+            "label": "Auto-YouTuber",
+            "href": "https://github.com/ethmth/auto-youtuber"
+          }
         }
       ],
       "columns": 1,
