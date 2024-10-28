@@ -6,7 +6,7 @@
     },
     "name": "Ethan Montgomery Thomas",
     "email": "ethan@smaze.net",
-    "phone": "+1 (863) 325 5360",
+    "phone": "",
     "picture": {
       "url": "",
       "size": 64,
@@ -19,8 +19,21 @@
       "borderRadius": 0
     },
     "headline": "",
-    "location": "Winter Haven, FL",
-    "customFields": []
+    "location": "",
+    "customFields": [
+      {
+        "id": "jx97gbyn9hrb1to2cuyb2z98",
+        "icon": "phone",
+        "name": "",
+        "value": "+1 (863) 325 5360"
+      },
+      {
+        "id": "ift35d0ge59hxbbxgtavz6p7",
+        "icon": "map-pin",
+        "name": "",
+        "value": "Winter Haven, FL"
+      }
+    ]
   },
   "metadata": {
     "css": {
@@ -63,10 +76,10 @@
         ]
       ]
     ],
-    "template": "bronzor",
+    "template": "onyx",
     "typography": {
       "font": {
-        "size": 12,
+        "size": 13,
         "family": "Roboto",
         "subset": "latin",
         "variants": [
@@ -285,29 +298,29 @@
       "items": [
         {
           "id": "n03wm0hc39uiu1zp2omjjqvz",
-          "url": {
-            "href": "https://www.fau.edu/isense/reu/reu-2023/reu-2023-artificial-intellience-for-smart-cities/",
-            "label": "fau.edu/isense/reu/reu-2023/reu-2023-artificial-intellience-for-smart-cities"
-          },
-          "date": "June 2023 - Aug 2023",
-          "company": "Florida Atlantic University Institute for Sensing & Embedded Network Systems",
-          "summary": "<ul><li><p>Awarded “Most Outstanding Presentation” for E-Scooter Mobility Sensing Research Project. </p></li><li><p>Developed a Raspberry-Pi data collection system for electric scooters with IMU, GPS, and Speed sensing.</p></li><li><p>Utilized machine learning to classify and predict road riding surface types based on collected data.</p></li></ul>",
           "visible": true,
+          "company": "Florida Atlantic University Institute for Sensing & Embedded Network Systems",
+          "position": "NSF REU Engineering Research Intern",
           "location": "Boca Raton, FL",
-          "position": "NSF REU Engineering Research Intern"
+          "date": "June 2023 - Aug 2023",
+          "summary": "<ul><li><p>Awarded “Most Outstanding Presentation” for E-Scooter Mobility Sensing Research Project. </p></li><li><p>Developed a Raspberry-Pi data collection system for electric scooters with IMU, GPS, and Speed sensing.</p></li><li><p>Utilized machine learning to classify and predict road riding surface types based on collected data.</p></li></ul>",
+          "url": {
+            "label": "fau.edu/isense/reu/reu-2023/reu-2023-artificial-intellience-for-smart-cities",
+            "href": ""
+          }
         },
         {
           "id": "s352sevpfxgrzpj19uhineqe",
-          "url": {
-            "href": "https://puberry.org/",
-            "label": "puberry.org"
-          },
-          "date": "Feb 2023 - June 2023",
-          "company": "Puberry",
-          "summary": "<ul><li><p>Developed a front-end application using the cross-platform Flutter framework.</p></li><li><p>Worked with Google Firebase storage and auth for data retrieval and storage.</p></li></ul>",
           "visible": true,
+          "company": "Puberry",
+          "position": "Software Engineering Intern",
           "location": "New York, NY",
-          "position": "Software Engineering Intern"
+          "date": "Feb 2023 - June 2023",
+          "summary": "<ul><li><p>Developed a front-end application using the cross-platform Flutter framework.</p></li><li><p>Worked with Google Firebase storage and auth for data retrieval and storage.</p></li></ul>",
+          "url": {
+            "label": "puberry.org",
+            "href": ""
+          }
         },
         {
           "id": "qhxk2yck8lwvdwpxf98zwbqf",
