@@ -1,25 +1,14 @@
 {
   "basics": {
-    "url": {
-      "href": "https://www.ethanmt.com",
-      "label": "www.ethanmt.com"
-    },
     "name": "Ethan Montgomery Thomas",
+    "headline": "",
     "email": "ethan@smaze.net",
     "phone": "",
-    "picture": {
-      "url": "",
-      "size": 64,
-      "effects": {
-        "border": false,
-        "hidden": false,
-        "grayscale": false
-      },
-      "aspectRatio": 1,
-      "borderRadius": 0
-    },
-    "headline": "",
     "location": "",
+    "url": {
+      "label": "www.ethanmt.com",
+      "href": "https://www.ethanmt.com"
+    },
     "customFields": [
       {
         "id": "jx97gbyn9hrb1to2cuyb2z98",
@@ -33,221 +22,50 @@
         "name": "",
         "value": "Winter Haven, FL"
       }
-    ]
-  },
-  "metadata": {
-    "css": {
-      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
-      "visible": false
-    },
-    "page": {
-      "format": "letter",
-      "margin": 32,
-      "options": {
-        "breakLine": true,
-        "pageNumbers": false
-      }
-    },
-    "notes": "",
-    "theme": {
-      "text": "#000000",
-      "primary": "#dc2626",
-      "background": "#ffffff"
-    },
-    "layout": [
-      [
-        [
-          "summary",
-          "profiles",
-          "education",
-          "experience",
-          "skills",
-          "custom.z0kq9vl3jkn116w5idm35uk9",
-          "projects"
-        ],
-        [
-          "interests",
-          "certifications",
-          "awards",
-          "publications",
-          "volunteer",
-          "references",
-          "languages"
-        ]
-      ]
     ],
-    "template": "onyx",
-    "typography": {
-      "font": {
-        "size": 14,
-        "family": "PT Serif",
-        "subset": "latin",
-        "variants": [
-          "regular"
-        ]
-      },
-      "hideIcons": false,
-      "lineHeight": 1.5,
-      "underlineLinks": true
+    "picture": {
+      "url": "",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
     }
   },
   "sections": {
-    "awards": {
-      "id": "awards",
-      "name": "Awards",
-      "items": [],
-      "columns": 1,
-      "visible": true,
-      "separateLinks": true
-    },
-    "custom": {
-      "z0kq9vl3jkn116w5idm35uk9": {
-        "id": "z0kq9vl3jkn116w5idm35uk9",
-        "name": "Skills",
-        "items": [
-          {
-            "id": "vxqo11hsjhbn6gkhpq003r7h",
-            "visible": true,
-            "name": "",
-            "description": "",
-            "date": "",
-            "location": "",
-            "summary": "<p><strong>Programming Languages</strong> - Python, C, C++, SQL, Javascript, Typescript, Java, OCaml.<br><strong>Technical Skills </strong>- Git, Linux, Docker, Bash, LaTeX, HTML, CSS, Raspberry Pi, Virtual Machines.<br><strong>Libraries &amp; Frameworks</strong> - React, NextJS, Flutter, PyTorch, Tensorflow, Selenium, Flask, Godot.</p>",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": ""
-            }
-          }
-        ],
-        "columns": 1,
-        "visible": true,
-        "separateLinks": true
-      }
-    },
-    "skills": {
-      "id": "skills",
-      "name": "Skills",
-      "items": [
-        {
-          "id": "b5a3dvqtnygjfuwrun8xjpdz",
-          "visible": true,
-          "name": "",
-          "description": "Programming Languages: Python, C, C++, SQL, Javascript, Typescript, Java, OCaml",
-          "level": 0,
-          "keywords": []
-        },
-        {
-          "id": "kuxwra1gr6r8dxfh4pgme5ix",
-          "name": "Technical Skills",
-          "level": 0,
-          "visible": true,
-          "keywords": [],
-          "description": "Git, Linux, Docker, Bash, LaTeX, HTML, CSS, Raspberry Pi, Virtual Machines"
-        },
-        {
-          "id": "i55jyp2tlbdlhegfyevqc43y",
-          "name": "Libraries & Frameworks",
-          "level": 0,
-          "visible": true,
-          "keywords": [],
-          "description": "React, NextJS, Flutter, PyTorch, Tensorflow, Selenium, Flask, Godot"
-        }
-      ],
-      "columns": 1,
-      "visible": false,
-      "separateLinks": true
-    },
     "summary": {
-      "id": "summary",
       "name": "Summary",
       "columns": 1,
-      "content": "<p>Columbia University Computer Science new graduate with research experience. Extensive experience with Linux, Python development, shell scripting, and React web development.</p>",
+      "separateLinks": true,
       "visible": true,
-      "separateLinks": true
+      "id": "summary",
+      "content": "<p>Columbia University Computer Science new graduate with research experience. Extensive experience with Linux, Python development, shell scripting, and React web development.</p>"
     },
-    "profiles": {
-      "id": "profiles",
-      "name": "Profiles",
-      "items": [
-        {
-          "id": "ic2a59yrqf9ee5ny0doebb7d",
-          "url": {
-            "href": "https://www.linkedin.com/in/ethanmt/",
-            "label": ""
-          },
-          "icon": "linkedin",
-          "network": "LinkedIn",
-          "visible": true,
-          "username": "ethanmt"
-        },
-        {
-          "id": "dwfs0xg7jixz4m1kp902p2pk",
-          "url": {
-            "href": "https://github.com/ethmth",
-            "label": ""
-          },
-          "icon": "github",
-          "network": "Github",
-          "visible": true,
-          "username": "ethmth"
-        }
-      ],
-      "columns": 5,
-      "visible": true,
-      "separateLinks": true
-    },
-    "projects": {
-      "id": "projects",
-      "name": "Projects",
-      "items": [
-        {
-          "id": "peyhwjh3funefbxrsj4xb5fv",
-          "visible": true,
-          "name": " ",
-          "description": "",
-          "date": "",
-          "summary": "<p>Led DevFest 2024 website development (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://2024.devfestcu.com\">2024.devfestcu.com</a>) using React, NextJS, and Javascript. Contributed to the 2023 DevFest website (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://2023.devfestcu.com\">2023.devfestcu.com</a>).</p>",
-          "keywords": [],
-          "url": {
-            "label": "ADI DevFest Hackathon Website",
-            "href": "https://2024.devfestcu.com/"
-          }
-        },
-        {
-          "id": "s4sgrs1c6lsv6g5ao0zqwf03",
-          "visible": true,
-          "name": " ",
-          "description": "",
-          "date": "",
-          "summary": "<p>Created a custom Linux VPN front-end for AirVPN provided configuration files, supporting OpenVPN, Wireguard, and a killswitch. Relies on Linux, Bash, and iptables firewall rules.</p>",
-          "keywords": [],
-          "url": {
-            "label": "OpenAir-VPN",
-            "href": "https://github.com/ethmth/openair-vpn"
-          }
-        },
-        {
-          "id": "xdw3w4lj05q4gukpuowo4m1u",
-          "visible": true,
-          "name": " ",
-          "description": "",
-          "date": "",
-          "summary": "<p>Created a tool that creates daily YouTube videos by scraping top posts from Reddit, compiling them into a full-length video, and uploading to YouTube autonomously. Uses Bash, Python, FFmpeg, and Docker.</p>",
-          "keywords": [],
-          "url": {
-            "label": "Auto-YouTuber",
-            "href": "https://github.com/ethmth/auto-youtuber"
-          }
-        }
-      ],
+    "awards": {
+      "name": "Awards",
       "columns": 1,
+      "separateLinks": true,
       "visible": true,
-      "separateLinks": true
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "certifications",
+      "items": []
     },
     "education": {
-      "id": "education",
       "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
       "items": [
         {
           "id": "ud2tp7r81no24h7rhtmdhjak",
@@ -263,56 +81,14 @@
             "href": ""
           }
         }
-      ],
-      "columns": 1,
-      "visible": true,
-      "separateLinks": true
-    },
-    "interests": {
-      "id": "interests",
-      "name": "Interests",
-      "items": [
-        {
-          "id": "m9xcew6kqr3w9uotac2j8pxn",
-          "visible": true,
-          "name": "Test",
-          "keywords": [
-            "test1",
-            "test2"
-          ]
-        }
-      ],
-      "columns": 1,
-      "visible": false,
-      "separateLinks": true
-    },
-    "languages": {
-      "id": "languages",
-      "name": "Languages",
-      "items": [
-        {
-          "id": "rcmp0k8mmngu88csuq63io1z",
-          "visible": true,
-          "name": "English",
-          "description": "Spanish, French",
-          "level": 1
-        }
-      ],
-      "columns": 1,
-      "visible": false,
-      "separateLinks": true
-    },
-    "volunteer": {
-      "id": "volunteer",
-      "name": "Volunteering",
-      "items": [],
-      "columns": 1,
-      "visible": true,
-      "separateLinks": true
+      ]
     },
     "experience": {
-      "id": "experience",
       "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
       "items": [
         {
           "id": "n03wm0hc39uiu1zp2omjjqvz",
@@ -339,61 +115,226 @@
             "label": "puberry.org",
             "href": ""
           }
-        },
-        {
-          "id": "qhxk2yck8lwvdwpxf98zwbqf",
-          "url": {
-            "href": "",
-            "label": ""
-          },
-          "date": "Present",
-          "company": "Test",
-          "summary": "<ul><li><p>Bullet item 1</p></li><li><p>Bullet item 2</p></li></ul>",
-          "visible": false,
-          "location": "",
-          "position": ""
         }
-      ],
-      "columns": 1,
-      "visible": true,
-      "separateLinks": true
+      ]
     },
-    "references": {
-      "id": "references",
-      "name": "References",
-      "items": [],
+    "volunteer": {
+      "name": "Volunteering",
       "columns": 1,
+      "separateLinks": true,
       "visible": true,
-      "separateLinks": true
+      "id": "volunteer",
+      "items": []
     },
-    "publications": {
-      "id": "publications",
-      "name": "Publications",
-      "items": [],
+    "interests": {
+      "name": "Interests",
       "columns": 1,
-      "visible": true,
-      "separateLinks": true
+      "separateLinks": true,
+      "visible": false,
+      "id": "interests",
+      "items": []
     },
-    "certifications": {
-      "id": "certifications",
-      "name": "Certifications",
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": false,
+      "id": "languages",
+      "items": []
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 5,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
       "items": [
         {
-          "id": "s9a1h2uhyvs9pvtsd5b3i9pj",
+          "id": "ic2a59yrqf9ee5ny0doebb7d",
           "visible": true,
-          "name": " ",
-          "issuer": "",
-          "date": "",
-          "summary": "<p>Programming Clips - Help, Me, Please</p>",
+          "network": "LinkedIn",
+          "username": "ethanmt",
+          "icon": "linkedin",
           "url": {
             "label": "",
-            "href": ""
+            "href": "https://www.linkedin.com/in/ethanmt/"
+          }
+        },
+        {
+          "id": "dwfs0xg7jixz4m1kp902p2pk",
+          "visible": true,
+          "network": "Github",
+          "username": "ethmth",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/ethmth"
           }
         }
-      ],
+      ]
+    },
+    "projects": {
+      "name": "Projects",
       "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "peyhwjh3funefbxrsj4xb5fv",
+          "visible": true,
+          "name": " ADI DevFest Hackathon Website",
+          "description": "",
+          "date": "",
+          "summary": "<p>Led DevFest 2024 website development (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://2024.devfestcu.com\">2024.devfestcu.com</a>) using React, NextJS, and Javascript. Contributed to the 2023 DevFest website (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://2023.devfestcu.com\">2023.devfestcu.com</a>).</p>",
+          "keywords": [
+            "Web Programming",
+            "Front-End",
+            "Back-End",
+            "Full-Stack",
+            "Cloud"
+          ],
+          "url": {
+            "label": "2024.devfestcu.com",
+            "href": "https://2024.devfestcu.com/"
+          }
+        },
+        {
+          "id": "s4sgrs1c6lsv6g5ao0zqwf03",
+          "visible": true,
+          "name": " OpenAir-VPN",
+          "description": "",
+          "date": "",
+          "summary": "<p>Created a custom Linux VPN front-end for AirVPN provided configuration files, supporting OpenVPN, Wireguard, and a killswitch. Relies on Linux, Bash, and iptables firewall rules.</p>",
+          "keywords": [
+            "Linux",
+            "System Programming",
+            "Shell Scripting"
+          ],
+          "url": {
+            "label": "OpenAir-VPN",
+            "href": ""
+          }
+        },
+        {
+          "id": "xdw3w4lj05q4gukpuowo4m1u",
+          "visible": false,
+          "name": " ",
+          "description": "",
+          "date": "",
+          "summary": "<p>Created a tool that creates daily YouTube videos by scraping top posts from Reddit, compiling them into a full-length video, and uploading to YouTube autonomously. Uses Bash, Python, FFmpeg, and Docker.</p>",
+          "keywords": [],
+          "url": {
+            "label": "Auto-YouTuber",
+            "href": "https://github.com/ethmth/auto-youtuber"
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 3,
+      "separateLinks": true,
       "visible": false,
-      "separateLinks": true
+      "id": "skills",
+      "items": []
+    },
+    "custom": {
+      "z0kq9vl3jkn116w5idm35uk9": {
+        "name": "Skills",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "z0kq9vl3jkn116w5idm35uk9",
+        "items": [
+          {
+            "id": "vxqo11hsjhbn6gkhpq003r7h",
+            "visible": true,
+            "name": "",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "<p><strong>Programming Languages</strong> - Python, C, C++, SQL, Javascript, Typescript, Java, C#, .NET, OCaml.<br><strong>Technical Skills </strong>- Git, Linux, Docker, Bash, LaTeX, HTML, CSS, Raspberry Pi, Virtual Machines.<br><strong>Libraries &amp; Frameworks</strong> - React, NextJS, Flutter, PyTorch, Tensorflow, Selenium, Flask, Godot.</p>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      }
     }
+  },
+  "metadata": {
+    "template": "onyx",
+    "layout": [
+      [
+        [
+          "summary",
+          "profiles",
+          "education",
+          "experience",
+          "skills",
+          "custom.z0kq9vl3jkn116w5idm35uk9",
+          "projects"
+        ],
+        [
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "volunteer",
+          "references",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 32,
+      "format": "letter",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": false
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#dc2626"
+    },
+    "typography": {
+      "font": {
+        "family": "PT Serif",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
   }
 }
