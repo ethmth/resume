@@ -75,7 +75,7 @@
           "area": "Bachelor of Computer Science",
           "score": "GPA: 4.157/4.0",
           "date": "Sep. 2022 – Oct. 2024",
-          "summary": "<p>•  Coursework - Artificial Intelligence, Data Structures, Algorithms, Databases, Networks, Operating Systems, Security, Natural Language Processing</p><p>•  <strong>Application Development Initiative</strong> (ADI) - Organizer of DevFest (annual hackathon), Leader of ADI House<br>•  <strong>Tau Beta Pi</strong> (The Engineering National Honor Society) - Member of the New York Alpha Chapter<br>•  <strong>Columbia Space Initiative</strong> (CSI) - Member of 2022-2023 NASA Micro-g NExT Competition team</p>",
+          "summary": "<p>•  Coursework - Artificial Intelligence, Data Structures, Algorithms, Databases, Networks, Operating Systems, Security, Natural Language Processing</p><p>•  Organizations - Application Development Initiative (ADI), Tau Beta Pi, Columbia Space Initiative (CSI)</p><p><s>•  </s><strong><s>Application Development Initiative</s></strong><s> (ADI) - Organizer of DevFest (annual hackathon), Leader of ADI House<br>•  </s><strong><s>Tau Beta Pi</s></strong><s> (The Engineering National Honor Society) - Member of the New York Alpha Chapter<br>•  </s><strong><s>Columbia Space Initiative</s></strong><s> (CSI) - Member of 2022-2023 NASA Micro-g NExT Competition team</s></p>",
           "url": {
             "label": "",
             "href": ""
@@ -97,7 +97,7 @@
           "position": "Engineering Research Intern",
           "location": "Boca Raton, FL",
           "date": "Jun. 2023 – Aug. 2023",
-          "summary": "<p>• Funded by the <strong>National Science Foundation (NSF)</strong> Engineering Research Center for Smart Streetscapes (CS3) as a <strong>Research Experiences for Undergraduates (REU)</strong> Intern.</p><p>• Tasked with <strong>analyzing and collecting</strong> data from<strong> Electronic Mobility Scooters</strong> in order to <strong>classify riding surface types</strong> (asphalt, concrete, pavers) in real-time for safety and asset management purposes.</p><p>• Collected electric scooter mobility data using a custom engineered <strong>Raspberry Pi-based data collection system</strong>, integrating <strong>IMU, GPS, and speed sensors</strong>.</p><p>• Applied <strong>machine learning techniques</strong> using the <strong>Python PyTorch and scikit-learn libraries</strong> to <strong>train a model</strong> used for <strong>classication</strong> and <strong>prediction</strong> of road surface types.</p><p>• Successfully classified riding surface types with 90% accuracy and received the <strong>“Most Outstanding Presentation”</strong> award.<br></p>",
+          "summary": "<p>• Funded by the <strong>National Science Foundation (NSF)</strong> Engineering Research Center for Smart Streetscapes (CS3) as a <strong>Research Experiences for Undergraduates (REU)</strong> Intern.</p><p>• Tasked with <strong>analyzing and collecting</strong> data from<strong> Electronic Mobility Scooters</strong> in order to <strong>classify riding surface types</strong> (asphalt, concrete, pavers) in real-time for safety and asset management purposes.</p><p>• Collected electric scooter mobility data using a custom engineered <strong>Raspberry Pi-based data collection system</strong>, integrating <strong>IMU, GPS, and speed sensors</strong>.</p><p>• Developed in a <strong>Linux environment</strong> where <strong>Systemd services</strong> were created and used for <strong>service management</strong>, and a combination of <strong>bash scripts</strong> and <strong>Python programs</strong> using <strong>inter-process communication</strong> libraries were used to enable <strong>system reliability and uptime</strong>. </p><p>• Applied <strong>machine learning techniques</strong> using the <strong>Python PyTorch and scikit-learn libraries</strong> to <strong>train a model</strong> used for <strong>classication</strong> and <strong>prediction</strong> of road surface types.</p><p>• Successfully classified riding surface types with 90% accuracy and received the <strong>“Most Outstanding Presentation”</strong> award.<br></p>",
           "url": {
             "label": "fau.edu/isense/reu/reu-2023/reu-2023-artificial-intellience-for-smart-cities",
             "href": ""
@@ -227,6 +227,19 @@
           "url": {
             "label": "Auto-YouTuber",
             "href": "https://github.com/ethmth/auto-youtuber"
+          }
+        },
+        {
+          "id": "lpxsj29brawzm75sr1widmxq",
+          "visible": true,
+          "name": "Baseball Analytics Dashboard",
+          "description": "",
+          "date": "",
+          "summary": "",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
           }
         }
       ]
