@@ -97,7 +97,7 @@
           "position": "Engineering Research Intern",
           "location": "Boca Raton, FL",
           "date": "Jun. 2023 – Aug. 2023",
-          "summary": "<p>• Received the <strong>“Most Outstanding Presentation”</strong> award for <strong>E-Scooter Mobility Sensing Research Project</strong>.<br>• Engineered a <strong>Raspberry Pi-based data collection system</strong> for electric scooters , integrating <strong>IMU, GPS, and speed sensors</strong>.<br>• Applied <strong>machine learning techniques</strong> to classify and predict road surface types using collected data.<br></p>",
+          "summary": "<p>• Funded by the <strong>National Science Foundation (NSF)</strong> Engineering Research Center for Smart Streetscapes (CS3) as a <strong>Research Experiences for Undergraduates (REU)</strong> Intern.</p><p>• Tasked with <strong>analyzing and collecting</strong> data from<strong> Electronic Mobility Scooters</strong> in order to <strong>classify riding surface types</strong> (asphalt, concrete, pavers) in real-time for safety and asset management purposes.</p><p>• Collected electric scooter mobility data using a custom engineered <strong>Raspberry Pi-based data collection system</strong>, integrating <strong>IMU, GPS, and speed sensors</strong>.</p><p>• Applied <strong>machine learning techniques</strong> using the <strong>Python PyTorch and scikit-learn libraries</strong> to <strong>train a model</strong> used for <strong>classication</strong> and <strong>prediction</strong> of road surface types.</p><p>• Successfully classified riding surface types with 90% accuracy and received the <strong>“Most Outstanding Presentation”</strong> award.<br></p>",
           "url": {
             "label": "fau.edu/isense/reu/reu-2023/reu-2023-artificial-intellience-for-smart-cities",
             "href": ""
@@ -110,7 +110,7 @@
           "position": "Software Engineering Intern",
           "location": "New York, NY",
           "date": "Feb. 2023 – Jun. 2023",
-          "summary": "<p>• Developed a <strong>cross-platform front-end application</strong> using the <strong>Flutter framework</strong>.<br>• Implemented data retrieval and storage solutions using <strong>Google Firebase</strong> for storage and authentication.</p>",
+          "summary": "<p>• Hired in a startup environment to contribute towards a <strong>cross-platform puberty education application</strong> intended to supplement schools' sex education curriculum.</p><p>• Tasked with <strong>developing interactive quizzes and games</strong> in order to assess and reinforce learning, as well as an <strong>interactive calendar</strong> for students to monitor their progress.</p><p>• Used the <strong>cross-platform Flutter framework</strong> on the mobile application front-end to implement the design of the application as well as communicate with the <strong>Google Firebase back-end</strong> to implement the functionality and interactivity of the application. <br>• Implemented data retrieval and storage solutions using <strong>Google Firebase</strong> for storage and authentication.</p><p>• Contributed efficiently towards the Puberry demo sprint, allowing our team to meet the deadline that allowed the Puberry application to be presented to schools, and tested on students and teachers, where it resulted in a 61% increase in health test scores and info retention.</p>",
           "url": {
             "label": "puberry.org",
             "href": ""
