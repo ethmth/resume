@@ -40,7 +40,7 @@
       "name": "Summary",
       "columns": 1,
       "separateLinks": true,
-      "visible": true,
+      "visible": false,
       "id": "summary",
       "content": "<p>Columbia University Computer Science new graduate with research experience. Extensive experience with Linux, Python development, shell scripting, and React web development.</p>"
     },
@@ -71,10 +71,10 @@
           "id": "ud2tp7r81no24h7rhtmdhjak",
           "visible": true,
           "institution": "Columbia University",
-          "studyType": "4.157 GPA",
-          "area": "Bachelor of Computer Science (B.S.)",
-          "score": "",
-          "date": "Graduated October 16, 2024",
+          "studyType": "New York, NY",
+          "area": "Bachelor of Computer Science",
+          "score": "GPA: 4.157/4.0",
+          "date": "Sep. 2022 – Oct. 2024",
           "summary": "<p>•  Coursework - Artificial Intelligence, Data Structures, Algorithms, Databases, Networks, Operating Systems, Security, Natural Language Processing</p><p>•  <strong>Application Development Initiative</strong> (ADI) - Organizer of DevFest (annual hackathon), Leader of ADI House<br>•  <strong>Tau Beta Pi</strong> (The Engineering National Honor Society) - Member of the New York Alpha Chapter<br>•  <strong>Columbia Space Initiative</strong> (CSI) - Member of 2022-2023 NASA Micro-g NExT Competition team</p>",
           "url": {
             "label": "",
@@ -94,10 +94,10 @@
           "id": "n03wm0hc39uiu1zp2omjjqvz",
           "visible": true,
           "company": "Florida Atlantic University",
-          "position": "NSF REU Engineering Research Intern",
+          "position": "Engineering Research Intern",
           "location": "Boca Raton, FL",
-          "date": "June 2023 - Aug 2023",
-          "summary": "<p>• Awarded “Most Outstanding Presentation” for E-Scooter Mobility Sensing Research Project.<br>• Developed a Raspberry-Pi data collection system for electric scooters with IMU, GPS, and Speed sensing.<br>• Utilized machine learning to classify and predict road riding surface types based on collected data.<br></p>",
+          "date": "Jun. 2023 – Aug. 2023",
+          "summary": "<p>• Received the <strong>“Most Outstanding Presentation”</strong> award for <strong>E-Scooter Mobility Sensing Research Project</strong>.<br>• Engineered a <strong>Raspberry Pi-based data collection system</strong> for electric scooters , integrating <strong>IMU, GPS, and speed sensors</strong>.<br>• Applied <strong>machine learning techniques</strong> to classify and predict road surface types using collected data.<br></p>",
           "url": {
             "label": "fau.edu/isense/reu/reu-2023/reu-2023-artificial-intellience-for-smart-cities",
             "href": ""
@@ -109,8 +109,8 @@
           "company": "Puberry Inc.",
           "position": "Software Engineering Intern",
           "location": "New York, NY",
-          "date": "Feb 2023 - June 2023",
-          "summary": "<p>• Developed a front-end application using the cross-platform Flutter framework.<br>• Worked with Google Firebase storage and auth for data retrieval and storage.</p>",
+          "date": "Feb. 2023 – Jun. 2023",
+          "summary": "<p>• Developed a <strong>cross-platform front-end application</strong> using the <strong>Flutter framework</strong>.<br>• Implemented data retrieval and storage solutions using <strong>Google Firebase</strong> for storage and authentication.</p>",
           "url": {
             "label": "puberry.org",
             "href": ""
@@ -290,8 +290,8 @@
           "profiles",
           "education",
           "experience",
-          "skills",
           "custom.z0kq9vl3jkn116w5idm35uk9",
+          "skills",
           "projects"
         ],
         [
