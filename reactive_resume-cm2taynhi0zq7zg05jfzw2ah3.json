@@ -72,7 +72,7 @@
           "visible": true,
           "institution": "Columbia University",
           "studyType": "New York, NY",
-          "area": "Bachelor of Computer Science",
+          "area": "B.S. in Computer Science",
           "score": "GPA: 4.157/4.0",
           "date": "Sep. 2022 – Oct. 2024",
           "summary": "<p>•  Coursework - Artificial Intelligence, Data Structures, Algorithms, Databases, Networks, Operating Systems, Security, Natural Language Processing</p><p>•  Organizations - Application Development Initiative (ADI), Tau Beta Pi, Columbia Space Initiative (CSI)</p><p><s>•  </s><strong><s>Application Development Initiative</s></strong><s> (ADI) - Organizer of DevFest (annual hackathon), Leader of ADI House<br>•  </s><strong><s>Tau Beta Pi</s></strong><s> (The Engineering National Honor Society) - Member of the New York Alpha Chapter<br>•  </s><strong><s>Columbia Space Initiative</s></strong><s> (CSI) - Member of 2022-2023 NASA Micro-g NExT Competition team</s></p>",
@@ -183,16 +183,20 @@
         {
           "id": "peyhwjh3funefbxrsj4xb5fv",
           "visible": true,
-          "name": " ADI DevFest Hackathon Website",
+          "name": "DevFest Hackathon Website",
           "description": "",
-          "date": "",
-          "summary": "<p>Led DevFest 2024 website development (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://2024.devfestcu.com\">2024.devfestcu.com</a>) using React, NextJS, and Javascript. Contributed to the 2023 DevFest website (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://2023.devfestcu.com\">2023.devfestcu.com</a>).</p>",
+          "date": "Oct. 2022 – Mar. 2024",
+          "summary": "<p>• Tasked with leading the Columbia University Application Development Initiative's 2024 DevFest Hackathon website team, after exemplary work on the 2023 DevFest website (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://2023.devfestcu.com\">2023.devfestcu.com</a>).</p><p>• Managed a project worked on by 5 engineers, distributing tasks and ensuring that each member stayed motivated and efficient in our sprint up to the hackathon.</p><p>• Utilized Next.js and React to create a website resembling a comic book, creating interactive \"page turning\" from scratch.</p><p>• DevFest recruited over 100 new registrants in 2024 over 2023, in part due to the efficiency of information layout and timeliness of the DevFest website. </p>",
           "keywords": [
-            "Web Programming",
             "Front-End",
             "Back-End",
             "Full-Stack",
-            "Cloud"
+            "Cloud",
+            "Web Programming",
+            "Leadership",
+            "Project Management",
+            "Next.js",
+            "React"
           ],
           "url": {
             "label": "2024.devfestcu.com",
@@ -234,9 +238,14 @@
           "visible": true,
           "name": "Baseball Analytics Dashboard",
           "description": "",
-          "date": "",
-          "summary": "",
-          "keywords": [],
+          "date": "Sep. 2021 – May 2022",
+          "summary": "<p>• Tasked with creating a pitching data dashboard by the Georgetown University Baseball Analytics club for use by the Georgetown baseball team.</p><p>• Developed a web UI using React that interacted with the R Plumber REST API to display pitches overlaid over a strike zone grid.</p><p>• Allowed players and coaches to visualize pitching data in an interactive way, being able to filter by players and pitch type.</p>",
+          "keywords": [
+            "React",
+            "R",
+            "API",
+            "RESTful"
+          ],
           "url": {
             "label": "",
             "href": ""
@@ -283,7 +292,30 @@
             "description": "",
             "date": "",
             "location": "",
-            "summary": "<p><strong>Programming Languages</strong> - Python, C, C++, SQL, Javascript, Typescript, Java, OCaml.<br><strong>Technical Skills </strong>- Git, Linux, Docker, Bash, LaTeX, HTML, CSS, Raspberry Pi, Virtual Machines, CLI, UX/UI Design, API.<br><strong>Libraries &amp; Frameworks</strong> - React, NextJS, Node, Flutter, PyTorch, Tensorflow, Selenium, Flask, Godot, PostgreSQL.<br><strong>Soft Skills</strong> - Analytical Problem Solving, Communication, Prototyping, Creative Thinking, Teamwork.</p>",
+            "summary": "<p><strong>Programming Languages</strong> - Python, C, C++, SQL, Javascript, Typescript, Java, OCaml.<br><strong>Technical Skills </strong>- Git, Linux, Docker, Bash, LaTeX, HTML, CSS, Raspberry Pi, Virtual Machines, CLI, UX/UI Design, API.<br><strong>Libraries &amp; Frameworks</strong> - React, NextJS, Node, Flutter, PyTorch, Tensorflow, Selenium, Flask, Godot, PostgreSQL.<br><strong>Soft Skills</strong> - Analytical Problem Solving, Communication, Prototyping, Creative Thinking, Teamwork, Leadership.</p>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      },
+      "hsv8pgt3tcqf5asnokrlztkf": {
+        "name": "TODO",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "hsv8pgt3tcqf5asnokrlztkf",
+        "items": [
+          {
+            "id": "ipam86kdv6sw4akqwaw5kmhx",
+            "visible": true,
+            "name": "",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "<p>Projects</p><ul><li><p>Add more? (Any open source contributions? Anything to highlight that's not highlighting in my other projects? Pitch Wizard? Class projects (Kernel Scheduler, C web server, NLP, Databases project)?)</p></li><li><p>Add STAR for OpenAir-VPN, and also add a license to it on Github so I can claim its an open source contribution.</p></li></ul><p>Skills</p><ul><li><p>Clean up/organize skills.</p></li></ul><p>Education</p><ul><li><p>Clean up/organize education</p></li><li><p>Add Dean's List?</p></li><li><p>Probably remove club descriptions and such.</p></li></ul><p>Reword star bullet points and such.</p><p>Run everything through bugfreeai</p>",
             "keywords": [],
             "url": {
               "label": "",
@@ -305,7 +337,8 @@
           "experience",
           "custom.z0kq9vl3jkn116w5idm35uk9",
           "skills",
-          "projects"
+          "projects",
+          "custom.hsv8pgt3tcqf5asnokrlztkf"
         ],
         [
           "interests",
