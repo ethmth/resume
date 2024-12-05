@@ -75,7 +75,7 @@
           "area": "B.S. in Computer Science",
           "score": "GPA: 4.157/4.0",
           "date": "Sep. 2022 – Oct. 2024",
-          "summary": "<p>•  Coursework - Artificial Intelligence, Data Structures, Algorithms, Databases, Networks, Operating Systems, Security, Natural Language Processing</p><p>•  Organizations - Application Development Initiative (ADI), Tau Beta Pi, Columbia Space Initiative (CSI)</p>",
+          "summary": "<p>•  Coursework - Artificial Intelligence, Data Structures, Algorithms, Databases, Networks, Operating Systems, Security, Natural Language Processing<br>•  Organizations - Application Development Initiative (ADI), Tau Beta Pi, Columbia Space Initiative (CSI)</p>",
           "url": {
             "label": "",
             "href": ""
@@ -97,7 +97,7 @@
           "position": "Engineering Research Intern",
           "location": "Boca Raton, FL",
           "date": "Jun. 2023 – Aug. 2023",
-          "summary": "<p>• Funded by the <strong>National Science Foundation (NSF)</strong> Engineering Research Center for Smart Streetscapes (CS3) as a <strong>Research Experiences for Undergraduates (REU)</strong> Intern.</p><p>• Tasked with <strong>analyzing and collecting</strong> data from<strong> Electronic Mobility Scooters</strong> in order to <strong>classify riding surface types</strong> (asphalt, concrete, pavers) in real-time for safety and asset management purposes.</p><p>• Collected electric scooter mobility data using a custom engineered <strong>Raspberry Pi-based data collection system</strong>, integrating <strong>IMU, GPS, and speed sensors</strong>.</p><p>• Developed in a <strong>Linux environment</strong> where <strong>Systemd services</strong> were created and used for <strong>service management</strong>, and a combination of <strong>bash scripts</strong> and <strong>Python programs</strong> using <strong>inter-process communication</strong> libraries were used to enable <strong>system reliability and uptime</strong>. </p><p>• Applied <strong>machine learning techniques</strong> using the <strong>Python PyTorch and scikit-learn libraries</strong> to <strong>train a model</strong> used for <strong>classication</strong> and <strong>prediction</strong> of road surface types.</p><p>• Successfully classified riding surface types with 90% accuracy and received the <strong>“Most Outstanding Presentation”</strong> award.<br></p>",
+          "summary": "<p>• Funded by NSF's Engineering Research Center for Smart Streetscapes (CS3).<br>• Analyzed scooter data to classify riding surfaces for safety and asset management.<br>• Collected data using a Raspberry Pi system with IMU, GPS, and speed sensors.<br>• Automated tasks using Systemd services, bash scripts, and Python IPC libraries.<br>• Trained PyTorch and scikit-learn models, achieving 90% classification accuracy.<br>• Won “Most Outstanding Presentation” award for project results.<br></p>",
           "url": {
             "label": "fau.edu/isense/reu/reu-2023/reu-2023-artificial-intellience-for-smart-cities",
             "href": ""
@@ -110,7 +110,7 @@
           "position": "Software Engineering Intern",
           "location": "New York, NY",
           "date": "Feb. 2023 – Jun. 2023",
-          "summary": "<p>• Hired in a startup environment to contribute towards a <strong>cross-platform puberty education application</strong> intended to supplement schools' sex education curriculum.</p><p>• Tasked with <strong>developing interactive quizzes and games</strong> in order to assess and reinforce learning, as well as an <strong>interactive calendar</strong> for students to monitor their progress.</p><p>• Used the <strong>cross-platform Flutter framework</strong> on the mobile application front-end to implement the design of the application as well as communicate with the <strong>Google Firebase back-end</strong> to implement the functionality and interactivity of the application. <br>• Implemented data retrieval and storage solutions using <strong>Google Firebase</strong> for storage and authentication.</p><p>• Contributed efficiently towards the Puberry demo sprint, allowing our team to meet the deadline that allowed the Puberry application to be presented to schools, and tested on students and teachers, where it resulted in a 61% increase in health test scores and info retention.</p>",
+          "summary": "<p>• Developed interactive quizzes, games, and a progress-tracking calendar for a cross-platform puberty education app.<br>• Contributed to the Flutter front-end, implementing responsive design and seamless user interactions.<br>• Connected the app to Google Firebase for secure data storage and user authentication.<br>• Contributed to the demo sprint, enabling a successful pilot test with students and teachers.<br>• Helped Puberry improve health test scores by 61%.</p>",
           "url": {
             "label": "puberry.org",
             "href": ""
@@ -186,7 +186,7 @@
           "name": "DevFest Hackathon Website",
           "description": "",
           "date": "Oct. 2022 – Mar. 2024",
-          "summary": "<p>• Tasked with leading the Columbia University Application Development Initiative's 2024 DevFest Hackathon website team, after exemplary work on the 2023 DevFest website (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://2023.devfestcu.com\">2023.devfestcu.com</a>).</p><p>• Managed a project worked on by 5 engineers, distributing tasks and ensuring that each member stayed motivated and efficient in our sprint up to the hackathon.</p><p>• Utilized Next.js and React to create a website resembling a comic book, creating interactive \"page turning\" from scratch.</p><p>• DevFest recruited over 100 new registrants in 2024 over 2023, in part due to the efficiency of information layout and timeliness of the DevFest website. </p>",
+          "summary": "<p>• Led a team of five engineers to develop Columbia University's DevFest 2024 website.<br>• Designed a Next.js and React site styled as a comic book with interactive \"page turning.\"<br>• Created custom animations and layout to enhance user engagement and readability.<br>• Improved event registration by 100+ participants compared to 2023 through clear, accessible information design.</p>",
           "keywords": [
             "Front-End",
             "Back-End",
@@ -204,12 +204,37 @@
           }
         },
         {
+          "id": "dme9qksja6jy8czw2sfgi44s",
+          "visible": true,
+          "name": "Baseball \"Pitch Wizard\" Web Application",
+          "description": "",
+          "date": "Mar. 2024 – May 2024",
+          "summary": "<p>• Developed a web app to teach users how to identify baseball pitches, like fastballs and curveballs.<br>• Created an interactive lesson and quiz using Python Flask for the back-end and Flask sessions for progress tracking.<br>• Styled the front-end with HTML/CSS, JavaScript, and jQuery, embedding video content for a richer learning experience.<br>• Packaged the app in a custom Docker image, simplifying deployment.<br>• Achieved user success rates of 85%+ in identifying pitch types after completing the lessons.</p>",
+          "keywords": [
+            "Python",
+            "Flask",
+            "jQuery",
+            "Docker",
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Front-End",
+            "Back-End",
+            "Full-Stack",
+            "UI/UX Design"
+          ],
+          "url": {
+            "label": "pitchwizard.lol",
+            "href": "https://pitchwizard.lol"
+          }
+        },
+        {
           "id": "s4sgrs1c6lsv6g5ao0zqwf03",
           "visible": true,
           "name": " OpenAir-VPN",
           "description": "",
           "date": "May 2023 – Present",
-          "summary": "<p>• Being fed up with the inconsistencies of third party Linux VPN clients, and with native Wireguard and OpenVPN client software lacking desired features, I sought out the create my own custom VPN front-end command line interface for Linux.</p><p>• Created the open-source MIT-licensed OpenAir-VPN, a sophisticated Bash shell script command-line interface (CLI) with minimal dependencies that enables users to connect/disconnect from a wireguard or OpenVPN VPN server, selecting from different locations. </p><p>• The CLI includes a killswitch created with native Linux iptables rules, optional LAN connection, and integration with Systemd for startup/shutdown support.</p>",
+          "summary": "<p>• Designed a Linux command-line interface (CLI) to manage Wireguard and OpenVPN connections.<br>• Implemented an iptables-based killswitch, startup/shutdown integration with Systemd, and optional LAN access.<br>• Published the project as open-source under the MIT license, prioritizing ease of use and community contributions.</p>",
           "keywords": [
             "Linux",
             "System Programming",
@@ -230,7 +255,7 @@
           "name": "Baseball Analytics Dashboard",
           "description": "",
           "date": "Sep. 2021 – May 2022",
-          "summary": "<p>• Tasked with creating a pitching data dashboard by the Georgetown University Baseball Analytics club for use by the Georgetown baseball team.</p><p>• Developed a web UI using React that interacted with the R Plumber REST API to display pitches overlaid over a strike zone grid.</p><p>• Allowed players and coaches to visualize pitching data in an interactive way, being able to filter by players and pitch type.</p>",
+          "summary": "<p>• Built a React-based web interface for visualizing pitch data as part of Georgetown Baseball Analytics.<br>• Integrated with an R Plumber REST API to display pitch trajectories and strike zone grids.<br>• Enabled filtering by players, pitch types, and other parameters to support team strategy analysis.<br>• Provided coaches and players with an interactive tool to better understand pitching performance.</p>",
           "keywords": [
             "React",
             "R",
@@ -240,31 +265,6 @@
           "url": {
             "label": "",
             "href": ""
-          }
-        },
-        {
-          "id": "dme9qksja6jy8czw2sfgi44s",
-          "visible": true,
-          "name": "Baseball \"Pitch Wizard\" Web Application",
-          "description": "",
-          "date": "March 2024 – May 2024",
-          "summary": "<p>• Tasked with creating an educational web application that would help users learn how to identify common baseball pitches (Fastball, Curveball, Changeup, and Knuckleball) using an interactive lesson and a quiz.</p><p>• Utilized a Python Flask web server back-end to serve my application with Flask sessions to keep track of user progress. Created a custom Docker image to host my application.</p><p>• Designed the UI/UX of the Front-End, then utilized HTML/CSS, Javascript, and jQuery to style the application, provide quiz interactivity, and display video content.</p><p>• Resulted in most users going from 0 knowledge to being able to successfully identify the four baseball pitches with at least 85% accuracy. </p>",
-          "keywords": [
-            "Python",
-            "Flask",
-            "jQuery",
-            "Docker",
-            "HTML",
-            "CSS",
-            "Javascript",
-            "Front-End",
-            "Back-End",
-            "Full-Stack",
-            "UI/UX Design"
-          ],
-          "url": {
-            "label": "pitchwizard.lol",
-            "href": "https://pitchwizard.lol"
           }
         }
       ]
