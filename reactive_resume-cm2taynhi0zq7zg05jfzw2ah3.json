@@ -75,7 +75,7 @@
           "area": "B.S. in Computer Science",
           "score": "GPA: 4.157/4.0",
           "date": "Sep. 2022 – Oct. 2024",
-          "summary": "<p>•  Coursework - Artificial Intelligence, Data Structures, Algorithms, Databases, Networks, Operating Systems, Security, Natural Language Processing</p><p>•  Organizations - Application Development Initiative (ADI), Tau Beta Pi, Columbia Space Initiative (CSI)</p><p><s>•  </s><strong><s>Application Development Initiative</s></strong><s> (ADI) - Organizer of DevFest (annual hackathon), Leader of ADI House<br>•  </s><strong><s>Tau Beta Pi</s></strong><s> (The Engineering National Honor Society) - Member of the New York Alpha Chapter<br>•  </s><strong><s>Columbia Space Initiative</s></strong><s> (CSI) - Member of 2022-2023 NASA Micro-g NExT Competition team</s></p>",
+          "summary": "<p>•  Coursework - Artificial Intelligence, Data Structures, Algorithms, Databases, Networks, Operating Systems, Security, Natural Language Processing</p><p>•  Organizations - Application Development Initiative (ADI), Tau Beta Pi, Columbia Space Initiative (CSI)</p>",
           "url": {
             "label": "",
             "href": ""
@@ -316,29 +316,6 @@
             }
           }
         ]
-      },
-      "z0kq9vl3jkn116w5idm35uk9": {
-        "name": "TODO",
-        "columns": 1,
-        "separateLinks": true,
-        "visible": true,
-        "id": "z0kq9vl3jkn116w5idm35uk9",
-        "items": [
-          {
-            "id": "vxqo11hsjhbn6gkhpq003r7h",
-            "visible": true,
-            "name": "",
-            "description": "",
-            "date": "",
-            "location": "",
-            "summary": "<p><strong>Programming Languages</strong> - Python, C, C++, SQL, Javascript, Typescript, Java, OCaml.<br><strong>Technical Skills </strong>- Git, Linux, Docker, Bash, LaTeX, HTML, CSS, Raspberry Pi, Virtual Machines, CLI, UX/UI Design, API.<br><strong>Libraries &amp; Frameworks</strong> - React, NextJS, Node, Flutter, PyTorch, Tensorflow, Selenium, Flask, Godot, PostgreSQL.<br><strong>Soft Skills</strong> - Analytical Problem Solving, Communication, Prototyping, Creative Thinking, Teamwork, Leadership.</p>",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": ""
-            }
-          }
-        ]
       }
     }
   },
@@ -351,9 +328,8 @@
           "profiles",
           "education",
           "experience",
-          "custom.z0kq9vl3jkn116w5idm35uk9",
-          "skills",
           "projects",
+          "skills",
           "custom.hsv8pgt3tcqf5asnokrlztkf"
         ],
         [
