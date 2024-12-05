@@ -208,29 +208,20 @@
           "visible": true,
           "name": " OpenAir-VPN",
           "description": "",
-          "date": "",
-          "summary": "<p>Created a custom Linux VPN front-end for AirVPN provided configuration files, supporting OpenVPN, Wireguard, and a killswitch. Relies on Linux, Bash, and iptables firewall rules.</p>",
+          "date": "May 2023 – Present",
+          "summary": "<p>• Being fed up with the inconsistencies of third party Linux VPN clients, and with native Wireguard and OpenVPN client software lacking desired features, I sought out the create my own custom VPN front-end command line interface for Linux.</p><p>• Created the open-source MIT-licensed OpenAir-VPN, a sophisticated Bash shell script command-line interface (CLI) with minimal dependencies that enables users to connect/disconnect from a wireguard or OpenVPN VPN server, selecting from different locations. </p><p>• The CLI includes a killswitch created with native Linux iptables rules, optional LAN connection, and integration with Systemd for startup/shutdown support.</p>",
           "keywords": [
             "Linux",
             "System Programming",
-            "Shell Scripting"
+            "Shell Scripting",
+            "Bash",
+            "Networking",
+            "Open-Source",
+            "CLI"
           ],
           "url": {
             "label": "OpenAir-VPN",
             "href": ""
-          }
-        },
-        {
-          "id": "xdw3w4lj05q4gukpuowo4m1u",
-          "visible": false,
-          "name": " ",
-          "description": "",
-          "date": "",
-          "summary": "<p>Created a tool that creates daily YouTube videos by scraping top posts from Reddit, compiling them into a full-length video, and uploading to YouTube autonomously. Uses Bash, Python, FFmpeg, and Docker.</p>",
-          "keywords": [],
-          "url": {
-            "label": "Auto-YouTuber",
-            "href": "https://github.com/ethmth/auto-youtuber"
           }
         },
         {
@@ -249,6 +240,31 @@
           "url": {
             "label": "",
             "href": ""
+          }
+        },
+        {
+          "id": "dme9qksja6jy8czw2sfgi44s",
+          "visible": true,
+          "name": "Baseball \"Pitch Wizard\" Web Application",
+          "description": "",
+          "date": "March 2024 – May 2024",
+          "summary": "<p>• Tasked with creating an educational web application that would help users learn how to identify common baseball pitches (Fastball, Curveball, Changeup, and Knuckleball) using an interactive lesson and a quiz.</p><p>• Utilized a Python Flask web server back-end to serve my application with Flask sessions to keep track of user progress. Created a custom Docker image to host my application.</p><p>• Designed the UI/UX of the Front-End, then utilized HTML/CSS, Javascript, and jQuery to style the application, provide quiz interactivity, and display video content.</p><p>• Resulted in most users going from 0 knowledge to being able to successfully identify the four baseball pitches with at least 85% accuracy. </p>",
+          "keywords": [
+            "Python",
+            "Flask",
+            "jQuery",
+            "Docker",
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Front-End",
+            "Back-End",
+            "Full-Stack",
+            "UI/UX Design"
+          ],
+          "url": {
+            "label": "pitchwizard.lol",
+            "href": "https://pitchwizard.lol"
           }
         }
       ]
@@ -278,8 +294,31 @@
       "items": []
     },
     "custom": {
-      "z0kq9vl3jkn116w5idm35uk9": {
+      "hsv8pgt3tcqf5asnokrlztkf": {
         "name": "Skills",
+        "columns": 1,
+        "separateLinks": true,
+        "visible": true,
+        "id": "hsv8pgt3tcqf5asnokrlztkf",
+        "items": [
+          {
+            "id": "ipam86kdv6sw4akqwaw5kmhx",
+            "visible": true,
+            "name": "",
+            "description": "",
+            "date": "",
+            "location": "",
+            "summary": "<p><strong>Programming Languages</strong> - Python, C, C++, SQL, Javascript, Typescript, Java, OCaml.<br><strong>Technical Skills </strong>- Git, Linux, Docker, Bash, LaTeX, HTML, CSS, Raspberry Pi, Virtual Machines, UX/UI Design.<br><strong>Libraries &amp; Frameworks</strong> - React, NextJS, Node, Flutter, PyTorch, Tensorflow, Selenium, Flask, Godot, PostgreSQL.<br><strong>Soft Skills</strong> - Analytical Problem Solving, Communication, Prototyping, Creative Thinking, Teamwork, Leadership.</p>",
+            "keywords": [],
+            "url": {
+              "label": "",
+              "href": ""
+            }
+          }
+        ]
+      },
+      "z0kq9vl3jkn116w5idm35uk9": {
+        "name": "TODO",
         "columns": 1,
         "separateLinks": true,
         "visible": true,
@@ -293,29 +332,6 @@
             "date": "",
             "location": "",
             "summary": "<p><strong>Programming Languages</strong> - Python, C, C++, SQL, Javascript, Typescript, Java, OCaml.<br><strong>Technical Skills </strong>- Git, Linux, Docker, Bash, LaTeX, HTML, CSS, Raspberry Pi, Virtual Machines, CLI, UX/UI Design, API.<br><strong>Libraries &amp; Frameworks</strong> - React, NextJS, Node, Flutter, PyTorch, Tensorflow, Selenium, Flask, Godot, PostgreSQL.<br><strong>Soft Skills</strong> - Analytical Problem Solving, Communication, Prototyping, Creative Thinking, Teamwork, Leadership.</p>",
-            "keywords": [],
-            "url": {
-              "label": "",
-              "href": ""
-            }
-          }
-        ]
-      },
-      "hsv8pgt3tcqf5asnokrlztkf": {
-        "name": "TODO",
-        "columns": 1,
-        "separateLinks": true,
-        "visible": true,
-        "id": "hsv8pgt3tcqf5asnokrlztkf",
-        "items": [
-          {
-            "id": "ipam86kdv6sw4akqwaw5kmhx",
-            "visible": true,
-            "name": "",
-            "description": "",
-            "date": "",
-            "location": "",
-            "summary": "<p>Projects</p><ul><li><p>Add more? (Any open source contributions? Anything to highlight that's not highlighting in my other projects? Pitch Wizard? Class projects (Kernel Scheduler, C web server, NLP, Databases project)?)</p></li><li><p>Add STAR for OpenAir-VPN, and also add a license to it on Github so I can claim its an open source contribution.</p></li></ul><p>Skills</p><ul><li><p>Clean up/organize skills.</p></li></ul><p>Education</p><ul><li><p>Clean up/organize education</p></li><li><p>Add Dean's List?</p></li><li><p>Probably remove club descriptions and such.</p></li></ul><p>Reword star bullet points and such.</p><p>Run everything through bugfreeai</p>",
             "keywords": [],
             "url": {
               "label": "",
