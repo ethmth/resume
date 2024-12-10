@@ -1,0 +1,378 @@
+{
+  "basics": {
+    "url": {
+      "href": "https://www.ethanmt.com",
+      "label": "www.ethanmt.com"
+    },
+    "name": "Ethan Montgomery Thomas",
+    "email": "ethan@smaze.net",
+    "phone": "",
+    "picture": {
+      "url": "",
+      "size": 64,
+      "effects": {
+        "border": false,
+        "hidden": false,
+        "grayscale": false
+      },
+      "aspectRatio": 1,
+      "borderRadius": 0
+    },
+    "headline": "",
+    "location": "",
+    "customFields": [
+      {
+        "id": "jx97gbyn9hrb1to2cuyb2z98",
+        "icon": "phone",
+        "name": "",
+        "value": "+1 (863) 325 5360"
+      },
+      {
+        "id": "ift35d0ge59hxbbxgtavz6p7",
+        "icon": "map-pin",
+        "name": "",
+        "value": "Winter Haven, FL"
+      }
+    ]
+  },
+  "metadata": {
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "format": "letter",
+      "margin": 32,
+      "options": {
+        "breakLine": true,
+        "pageNumbers": false
+      }
+    },
+    "notes": "",
+    "theme": {
+      "text": "#000000",
+      "primary": "#dc2626",
+      "background": "#ffffff"
+    },
+    "layout": [
+      [
+        [
+          "summary",
+          "profiles",
+          "education",
+          "experience",
+          "projects",
+          "skills",
+          "custom.hsv8pgt3tcqf5asnokrlztkf"
+        ],
+        [
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "volunteer",
+          "references",
+          "languages"
+        ]
+      ]
+    ],
+    "template": "onyx",
+    "typography": {
+      "font": {
+        "size": 14,
+        "family": "PT Serif",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ]
+      },
+      "hideIcons": false,
+      "lineHeight": 1.5,
+      "underlineLinks": true
+    }
+  },
+  "sections": {
+    "awards": {
+      "id": "awards",
+      "name": "Awards",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "custom": {
+      "hsv8pgt3tcqf5asnokrlztkf": {
+        "id": "hsv8pgt3tcqf5asnokrlztkf",
+        "name": "Skills",
+        "items": [
+          {
+            "id": "ipam86kdv6sw4akqwaw5kmhx",
+            "url": {
+              "href": "",
+              "label": ""
+            },
+            "date": "",
+            "name": "",
+            "summary": "<p><strong>Programming Languages</strong> - Python, C, C++, SQL, Javascript, Typescript, Java, OCaml.<br><strong>Technical Skills </strong>- Git, Linux, Docker, Bash, LaTeX, HTML, CSS, Raspberry Pi, Virtual Machines, UX/UI Design.<br><strong>Libraries &amp; Frameworks</strong> - React, NextJS, Node, Flutter, PyTorch, Tensorflow, Selenium, Flask, Godot, PostgreSQL.<br><strong>Soft Skills</strong> - Analytical Problem Solving, Communication, Prototyping, Creative Thinking, Teamwork, Leadership.</p>",
+            "visible": true,
+            "keywords": [],
+            "location": "",
+            "description": ""
+          }
+        ],
+        "columns": 1,
+        "visible": true,
+        "separateLinks": true
+      }
+    },
+    "skills": {
+      "id": "skills",
+      "name": "Skills",
+      "items": [],
+      "columns": 3,
+      "visible": false,
+      "separateLinks": true
+    },
+    "summary": {
+      "id": "summary",
+      "name": "Summary",
+      "columns": 1,
+      "content": "<p>Columbia University Computer Science new graduate with research experience. Extensive experience with Linux, Python development, shell scripting, and React web development.</p>",
+      "visible": false,
+      "separateLinks": true
+    },
+    "profiles": {
+      "id": "profiles",
+      "name": "Profiles",
+      "items": [
+        {
+          "id": "ic2a59yrqf9ee5ny0doebb7d",
+          "url": {
+            "href": "https://www.linkedin.com/in/ethanmt/",
+            "label": ""
+          },
+          "icon": "linkedin",
+          "network": "LinkedIn",
+          "visible": true,
+          "username": "ethanmt"
+        },
+        {
+          "id": "dwfs0xg7jixz4m1kp902p2pk",
+          "url": {
+            "href": "https://github.com/ethmth",
+            "label": ""
+          },
+          "icon": "github",
+          "network": "Github",
+          "visible": true,
+          "username": "ethmth"
+        }
+      ],
+      "columns": 5,
+      "visible": true,
+      "separateLinks": true
+    },
+    "projects": {
+      "id": "projects",
+      "name": "Projects",
+      "items": [
+        {
+          "id": "peyhwjh3funefbxrsj4xb5fv",
+          "url": {
+            "href": "https://2024.devfestcu.com/",
+            "label": "2024.devfestcu.com"
+          },
+          "date": "Oct. 2022 – Mar. 2024",
+          "name": "DevFest Hackathon Website",
+          "summary": "<p>• Tasked with leading the Columbia University Application Development Initiative's 2024 DevFest Hackathon website team, after exemplary work on the 2023 DevFest website (<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://2023.devfestcu.com\">2023.devfestcu.com</a>).</p><p>• Managed a project worked on by 5 engineers, distributing tasks and ensuring that each member stayed motivated and efficient in our sprint up to the hackathon.</p><p>• Utilized Next.js and React to create a website resembling a comic book, creating interactive \"page turning\" from scratch.</p><p>• DevFest recruited over 100 new registrants in 2024 over 2023, in part due to the efficiency of information layout and timeliness of the DevFest website. </p>",
+          "visible": true,
+          "keywords": [
+            "Front-End",
+            "Back-End",
+            "Full-Stack",
+            "Cloud",
+            "Web Programming",
+            "Leadership",
+            "Project Management",
+            "Next.js",
+            "React"
+          ],
+          "description": ""
+        },
+        {
+          "id": "s4sgrs1c6lsv6g5ao0zqwf03",
+          "url": {
+            "href": "",
+            "label": "OpenAir-VPN"
+          },
+          "date": "May 2023 – Present",
+          "name": " OpenAir-VPN",
+          "summary": "<p>• Being fed up with the inconsistencies of third party Linux VPN clients, and with native Wireguard and OpenVPN client software lacking desired features, I sought out the create my own custom VPN front-end command line interface for Linux.</p><p>• Created the open-source MIT-licensed OpenAir-VPN, a sophisticated Bash shell script command-line interface (CLI) with minimal dependencies that enables users to connect/disconnect from a wireguard or OpenVPN VPN server, selecting from different locations. </p><p>• The CLI includes a killswitch created with native Linux iptables rules, optional LAN connection, and integration with Systemd for startup/shutdown support.</p>",
+          "visible": true,
+          "keywords": [
+            "Linux",
+            "System Programming",
+            "Shell Scripting",
+            "Bash",
+            "Networking",
+            "Open-Source",
+            "CLI"
+          ],
+          "description": ""
+        },
+        {
+          "id": "lpxsj29brawzm75sr1widmxq",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "Sep. 2021 – May 2022",
+          "name": "Baseball Analytics Dashboard",
+          "summary": "<p>• Tasked with creating a pitching data dashboard by the Georgetown University Baseball Analytics club for use by the Georgetown baseball team.</p><p>• Developed a web UI using React that interacted with the R Plumber REST API to display pitches overlaid over a strike zone grid.</p><p>• Allowed players and coaches to visualize pitching data in an interactive way, being able to filter by players and pitch type.</p>",
+          "visible": true,
+          "keywords": [
+            "React",
+            "R",
+            "API",
+            "RESTful"
+          ],
+          "description": ""
+        },
+        {
+          "id": "dme9qksja6jy8czw2sfgi44s",
+          "url": {
+            "href": "https://pitchwizard.lol",
+            "label": "pitchwizard.lol"
+          },
+          "date": "March 2024 – May 2024",
+          "name": "Baseball \"Pitch Wizard\" Web Application",
+          "summary": "<p>• Tasked with creating an educational web application that would help users learn how to identify common baseball pitches (Fastball, Curveball, Changeup, and Knuckleball) using an interactive lesson and a quiz.</p><p>• Utilized a Python Flask web server back-end to serve my application with Flask sessions to keep track of user progress. Created a custom Docker image to host my application.</p><p>• Designed the UI/UX of the Front-End, then utilized HTML/CSS, Javascript, and jQuery to style the application, provide quiz interactivity, and display video content.</p><p>• Resulted in most users going from 0 knowledge to being able to successfully identify the four baseball pitches with at least 85% accuracy. </p>",
+          "visible": true,
+          "keywords": [
+            "Python",
+            "Flask",
+            "jQuery",
+            "Docker",
+            "HTML",
+            "CSS",
+            "Javascript",
+            "Front-End",
+            "Back-End",
+            "Full-Stack",
+            "UI/UX Design"
+          ],
+          "description": ""
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "education": {
+      "id": "education",
+      "name": "Education",
+      "items": [
+        {
+          "id": "ud2tp7r81no24h7rhtmdhjak",
+          "visible": true,
+          "institution": "Columbia University",
+          "studyType": "New York, NY",
+          "area": "B.S. in Computer Science",
+          "score": "GPA: 4.157/4.0",
+          "date": "Sep. 2022 – Oct. 2024",
+          "summary": "<p>•  Coursework - Artificial Intelligence, Data Structures, Algorithms, Databases, Networks, Operating Systems, Security, Natural Language Processing<br>•  Organizations - Application Development Initiative (ADI), Tau Beta Pi, Columbia Space Initiative (CSI)</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "interests": {
+      "id": "interests",
+      "name": "Interests",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "languages": {
+      "id": "languages",
+      "name": "Languages",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    },
+    "volunteer": {
+      "id": "volunteer",
+      "name": "Volunteering",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "experience": {
+      "id": "experience",
+      "name": "Experience",
+      "items": [
+        {
+          "id": "n03wm0hc39uiu1zp2omjjqvz",
+          "url": {
+            "href": "",
+            "label": "fau.edu/isense/reu/reu-2023/reu-2023-artificial-intellience-for-smart-cities"
+          },
+          "date": "Jun. 2023 – Aug. 2023",
+          "company": "Florida Atlantic University",
+          "summary": "<p>• Funded by the <strong>National Science Foundation (NSF)</strong> Engineering Research Center for Smart Streetscapes (CS3) as a <strong>Research Experiences for Undergraduates (REU)</strong> Intern.</p><p>• Tasked with <strong>analyzing and collecting</strong> data from<strong> Electronic Mobility Scooters</strong> in order to <strong>classify riding surface types</strong> (asphalt, concrete, pavers) in real-time for safety and asset management purposes.</p><p>• Collected electric scooter mobility data using a custom engineered <strong>Raspberry Pi-based data collection system</strong>, integrating <strong>IMU, GPS, and speed sensors</strong>.</p><p>• Developed in a <strong>Linux environment</strong> where <strong>Systemd services</strong> were created and used for <strong>service management</strong>, and a combination of <strong>bash scripts</strong> and <strong>Python programs</strong> using <strong>inter-process communication</strong> libraries were used to enable <strong>system reliability and uptime</strong>. </p><p>• Applied <strong>machine learning techniques</strong> using the <strong>Python PyTorch and scikit-learn libraries</strong> to <strong>train a model</strong> used for <strong>classication</strong> and <strong>prediction</strong> of road surface types.</p><p>• Successfully classified riding surface types with 90% accuracy and received the <strong>“Most Outstanding Presentation”</strong> award.<br></p>",
+          "visible": true,
+          "location": "Boca Raton, FL",
+          "position": "Engineering Research Intern"
+        },
+        {
+          "id": "s352sevpfxgrzpj19uhineqe",
+          "url": {
+            "href": "",
+            "label": "puberry.org"
+          },
+          "date": "Feb. 2023 – Jun. 2023",
+          "company": "Puberry Inc.",
+          "summary": "<p>• Hired in a startup environment to contribute towards a <strong>cross-platform puberty education application</strong> intended to supplement schools' sex education curriculum.</p><p>• Tasked with <strong>developing interactive quizzes and games</strong> in order to assess and reinforce learning, as well as an <strong>interactive calendar</strong> for students to monitor their progress.</p><p>• Used the <strong>cross-platform Flutter framework</strong> on the mobile application front-end to implement the design of the application as well as communicate with the <strong>Google Firebase back-end</strong> to implement the functionality and interactivity of the application. <br>• Implemented data retrieval and storage solutions using <strong>Google Firebase</strong> for storage and authentication.</p><p>• Contributed efficiently towards the Puberry demo sprint, allowing our team to meet the deadline that allowed the Puberry application to be presented to schools, and tested on students and teachers, where it resulted in a 61% increase in health test scores and info retention.</p>",
+          "visible": true,
+          "location": "New York, NY",
+          "position": "Software Engineering Intern"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "references": {
+      "id": "references",
+      "name": "References",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "publications": {
+      "id": "publications",
+      "name": "Publications",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "certifications": {
+      "id": "certifications",
+      "name": "Certifications",
+      "items": [],
+      "columns": 1,
+      "visible": false,
+      "separateLinks": true
+    }
+  }
+}

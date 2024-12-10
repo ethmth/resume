@@ -1,0 +1,65 @@
+Experience
+
+Florida Atlantic University
+Engineering Research Intern
+
+Jun. 2023 – Aug. 2023
+Boca Raton, FL
+
+• Funded by the National Science Foundation (NSF) Engineering Research Center for Smart Streetscapes (CS3) as a Research Experiences for Undergraduates (REU) Intern.
+• Tasked with analyzing and collecting data from Electronic Mobility Scooters in order to classify riding surface types (asphalt, concrete, pavers) in real-time for safety and asset management purposes.
+• Collected electric scooter mobility data using a custom engineered Raspberry Pi-based data collection system, integrating IMU, GPS, and speed sensors.
+• Developed in a Linux environment where Systemd services were created and used for service management, and a combination of bash scripts and Python programs using inter-process communication libraries were used to enable system reliability and uptime.
+• Applied machine learning techniques using the Python PyTorch and scikit-learn libraries to train a model used for classication and prediction of road surface types.
+• Successfully classified riding surface types with 90% accuracy and received the “Most Outstanding Presentation” award.
+
+
+Puberry Inc.
+Software Engineering Intern
+
+Feb. 2023 – Jun. 2023
+New York, NY
+
+• Hired in a startup environment to contribute towards a cross-platform puberty education application intended to supplement schools' sex education curriculum.
+• Tasked with developing interactive quizzes and games in order to assess and reinforce learning, as well as an interactive calendar for students to monitor their progress.
+• Used the cross-platform Flutter framework on the mobile application front-end to implement the design of the application as well as communicate with the Google Firebase back-end to implement the functionality and interactivity of the application.
+• Implemented data retrieval and storage solutions using Google Firebase for storage and authentication.
+• Contributed efficiently towards the Puberry demo sprint, allowing our team to meet the deadline that allowed the Puberry application to be presented to schools, and tested on students and teachers, where it resulted in a 61% increase in health test scores and info retention.
+
+
+
+Projects
+
+DevFest Hackathon Website (2024.devfestcu.com)
+Oct. 2022 – Mar. 2024
+
+• Tasked with leading the Columbia University Application Development Initiative's 2024 DevFest Hackathon website team, after exemplary work on the 2023 DevFest website (2023.devfestcu.com).
+• Managed a project worked on by 5 engineers, distributing tasks and ensuring that each member stayed motivated and efficient in our sprint up to the hackathon.
+• Utilized Next.js and React to create a website resembling a comic book, creating interactive "page turning" from scratch.
+• DevFest recruited over 100 new registrants in 2024 over 2023, in part due to the efficiency of information layout and timeliness of the DevFest website.
+
+
+OpenAir-VPN
+May 2023 – Present
+
+• Being fed up with the inconsistencies of third party Linux VPN clients, and with native Wireguard and OpenVPN client software lacking desired features, I sought out the create my own custom VPN front-end command line interface for Linux.
+• Created the open-source MIT-licensed OpenAir-VPN, a sophisticated Bash shell script command-line interface (CLI) with minimal dependencies that enables users to connect/disconnect from a wireguard or OpenVPN VPN server, selecting from different locations.
+• The CLI includes a killswitch created with native Linux iptables rules, optional LAN connection, and integration with Systemd for startup/shutdown support.
+
+
+Baseball Analytics Dashboard
+Sep. 2021 – May 2022
+
+• Tasked with creating a pitching data dashboard by the Georgetown University Baseball Analytics club for use by the Georgetown baseball team.
+• Developed a web UI using React that interacted with the R Plumber REST API to display pitches overlaid over a strike zone grid.
+• Allowed players and coaches to visualize pitching data in an interactive way, being able to filter by players and pitch type.
+
+
+Baseball "Pitch Wizard" Web Application (pitchwizard.lol)
+March 2024 – May 2024
+
+• Tasked with creating an educational web application that would help users learn how to identify common baseball pitches (Fastball, Curveball, Changeup, and Knuckleball) using an interactive lesson and a quiz.
+• Utilized a Python Flask web server back-end to serve my application with Flask sessions to keep track of user progress. Created a custom Docker image to host my application.
+• Designed the UI/UX of the Front-End, then utilized HTML/CSS, Javascript, and jQuery to style the application, provide quiz interactivity, and display video content.
+• Resulted in most users going from 0 knowledge to being able to successfully identify the four baseball pitches with at least 85% accuracy.
+
