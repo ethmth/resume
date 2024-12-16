@@ -1,55 +1,86 @@
-ETHAN M THOMAS
-+1(863) 325-5360 | ethan@smaze.net
-www.ethanmt.com | linkedin.com/in/ethanmt | github.com/ethmth
+Ethan Thomas
++1 (863) 325 5360
+ethan@smaze.net
+www.ethanmt.com
+Winter Haven, FL
 
-OBJECTIVE
-------------------------------------------------------------------------
-Student who is passionate about Linux, automation using Bash and Python, and front-end development.
-Curious and eager to learn more about Cybersecurity and Algorithm Development.
-Seeking a Summer 2023 Software Engineering internship.
 
-EDUCATION
-------------------------------------------------------------------------
-Bachelor of Computer Science (B.S.), Columbia University (SEAS)	(Class of 2025)
-Relevant Coursework: Data Structures, Advanced Programming, Linear Algebra, Discrete Math
-Member of Columbia Space Initiative (CSI) - 2023 NASA Micro-g NExT Competition team member
-Member of the Application Development Initiative (ADI) - DevFest (Hackathon) organizing committee
 
-SKILLS
--------------------------- --------------------------------------------------------------------------------
-  Programming Languages    Java, C++, C, Python, Javascript, Typescript, R, Matlab
-  Libraries & Frameworks   Selenium, Flask API, Beautiful Soup, React, NextJS, RPlumber
-  Technical Skills         Linux, Docker, Bash, LaTeX, HTML, CSS, Git, CAD (Solidworks), Virtual Machines
-  Soft Skills              Patience, Curiosity, Organization, Communication
--------------------------- --------------------------------------------------------------------------------
+Education
 
-EXPERIENCE
-------------------------------------------------------------------------
-Front-End Software Engineer (Club) Sep 2021 - May 2022
-Georgetown University Baseball Analytics (Washington, DC)
--   Developed web UI that allowed coaches and players to visualize catcher framing data using ReactJS and R.  
--   Worked with R Data Analysts to convert their projects into APIs using the R Plumber Library.
+Columbia University
+B.S. in Computer Science
+New York, NY
+Sep. 2022 – Oct. 2024
+GPA: 4.157/4.0
 
-Web Developer/Web Designer (Volunteer) July 2019 - May 2021
-Winter Haven Optimist Club (Winter Haven, FL)
--   Developed and designed a new website for an annual Christmas 5k/10k fundraiser using HTML/CSS.
--   Achieved 49% growth in registered runners the year my site went live.
+Organizations: Application Development Initiative, Tau Beta Pi, Columbia Space Initiative
 
-PROJECTS
-------------------------------------------------------------------------
-Personal projects available on GitHub.
-- Seatgeek Scanner. Built a tool to continuously search for tickets that fall below a target price within a date range for any given show on Seatgeek. Integrates with IFTTT webhooks. Uses Python, Selenium, and Docker.
-- Auto-YouTuber. Built a tool that creates and uploads daily YouTube videos by scraping top posts from Reddit, compiling them into a full-length video, and uploading to YouTube completely autonomously. Uses Bash, Python, FFmpeg, and Docker.
-- ThingM Blink1 API. Built an API using Python, Flask, and Docker for the ThingM Blink1, allowing for network control.
-- C Web Server (Class Project). Built a dynamic HTTP/1.0 Server in C that serves static files and entries from a database.
 
-EXTRA-CURRICULAR ACTIVITIES
-------------------------------------------------------------------------
--   Volunteer tutoring in math up to Calculus II through Mu Alpha Theta, Schoolhouse.World, and Hatch Tutors.
--   Create personal projects in the Columbia Engineering Makerspace by 3D printing models and laser cutting parts designed using Solidworks.
--   Interests: Minecraft Mod Development, Musical Theater, Baseball, Reviewing Films, and Tinkering with Linux.
 
-LEADERSHIP
-------------------------------------------------------------------------
--   President of Technology Student Association (TSA) Chapter in high school, a club of over 50 students.
--   Leader of Art of Engineering Common Project group, which created a "Smart" Hungry-Hungry Hippos game. The game uses an Arduino Microcontroller, beam-break sensors, and push-pull servos.
+Experience
+
+Florida Atlantic University
+Engineering Research Intern
+Boca Raton, FL
+Jun. 2023 – Aug. 2023
+
+- Secured funding from NSF’s Engineering Research Center for Smart Streetscapes (CS3).
+- Developed a Raspberry Pi-based data collection system with IMU, GPS, and speed sensors.
+- Automated tasks using Systemd services, bash scripts, and Python IPC libraries.
+- Trained PyTorch and scikit-learn models, achieving 90% classification accuracy.
+- Won “Most Outstanding Presentation” award for project results.
+
+
+Puberry Inc.
+Software Engineering Intern
+New York, NY
+Feb. 2023 – Jun. 2023
+
+- Developed interactive quizzes and a progress-tracking calendar for a cross-platform puberty education app.
+- Enhanced the Flutter front-end with responsive design and smooth user interactions.
+- Integrated Google Firebase for secure data storage and user authentication.
+- Contributed to Puberry’s 61% improvement in health test scores.
+
+
+
+Projects
+
+DevFest Hackathon Website | Next.js, React, UI Design, Project Management
+2024.devfestcu.com
+
+- Led a team of five engineers to create Columbia University’s DevFest 2024 website.
+- Designed a comic book-style Next.js/React site with interactive “page turning” features.
+- Boosted event registration by 100+ participants with clear, accessible design.
+
+
+Pitch Wizard | Python, Flask, HTML/CSS, JavaScript, jQuery, Docker, UI/UX Design
+pitchwizard.lol
+
+- Built a web app to teach users how to identify baseball pitches, like fastballs and curveballs.
+- Developed interactive lessons and quizzes using Flask with per-user progress tracking.
+- Designed the front-end UI with HTML/CSS, JavaScript, and jQuery for an engaging user experience.
+
+
+OpenAir-VPN | Linux, Bash, Shell Scripting, Networking, CLI
+
+- Created a Linux CLI to manage Wireguard and OpenVPN connections.
+- Implemented an iptables-based killswitch, Systemd integration, and LAN access options.
+- Released the project as open-source under the MIT license, emphasizing usability and community contributions.
+
+
+Baseball Analytics Dashboard | React, R, RESTful, API
+
+- Developed a React web interface for visualizing pitch data for the Georgetown University Baseball team.
+- Integrated with an R Plumber REST API to display pitch trajectories and strike zone grids.
+- Delivered an interactive tool to help coaches and players analyze pitching performance.
+
+
+
+Skills
+
+Programming Languages: Python, SQL, JavaScript, TypeScript, Go, C, C++, Java
+Technical Skills: Git, Linux, Docker, Containerization, Bash, LaTeX, HTML, CSS, UX/UI Design, Database ORM
+Libraries & Frameworks: React.js, Next.js, Node.js, Selenium, Flask, SQLAlchemy, PostgreSQL, MySQL
+Soft Skills: Prototype Development, Project Management, Code Review, Problem Solving, Communication, Creative Thinking, Teamwork, Leadership, Taking Initiative
+
